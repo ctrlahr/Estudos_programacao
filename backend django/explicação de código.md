@@ -1,0 +1,7 @@
+![[Pasted image 20250205201726.png]]
+- O código começa com a criação de uma classe que representará uma tabela no banco de dados, essa classe tem que herdar de `models.Model` para poder funcionar como uma tabela do banco de dados. 
+- Define uma chave estrangeira, ou foreign key que se relacionará com a classe topic, anteriormente criada e por meio do `on_delete = models.cascade` é definido que se o tópico relacionado for deletado, todas as entradas que a ele estão associadas também serão. O `on_delete` faz com que algo acontece quando for delatado e o que vai fazer é definido pelo, nesse caso `CASCADE`.
+- É definida outra variável que será onde vai ficar armazenado o texto
+- Outra variável é armazenada mas dessa vez para armazenar a data e a hora que esse registro foi preenchido
+- É criado um método especial que define como o objeto será representado como string e por meio de uma estrutura condicional, faz com que se o tamanho desse texto for maior de 50 ele será retornado com três pontos no final, mas se não for maior que 50 retornará o texto como ele é.
+- `Meta` é uma classe interna que define os metadados do modelo, com isso podemos fazer com que na interface administrativa o nome da nossa tabela fique "entries" ao invés do que viria por padrão no django que é apenas adicionar um s no final, ficando "entrys".
