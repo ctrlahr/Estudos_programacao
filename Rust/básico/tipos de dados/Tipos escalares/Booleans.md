@@ -1,0 +1,1 @@
+Os booleans são utilizados para comparação, verificação de se algo está correspondente a condição ou não, etc. eles no rust são representados apenas com `true` e `false` tendo eles que estarem em minúsculo

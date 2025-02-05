@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "76d8792d338d5600",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7459f9777fb903a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b3fa55308c32d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ruby on rails/básico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55cd08aec98ce31e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ff2b7e0d0ceb1c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3685012292d29bce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce6f4bdd6faca53c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fea515fc4365fb7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "969af1b54b7e7193",
+    "type": "split",
+    "children": [
+      {
+        "id": "49eef8cc0843c4fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dfbdb37dc6bb098",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ruby on rails/básico.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8f164f18f7f530c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ruby on rails/básico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2240680517ccfd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2ecc35c455e4730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ruby on rails/básico.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "88b3fa55308c32d4",
+  "lastOpenFiles": [
+    "Comandos/POO em Ruby.md",
+    "ruby on rails/básico.md",
+    "ruby on rails",
+    "Comandos/Sintaxe padrão do ruby.md",
+    "ruby gems/Bundler e gemfile.md",
+    "ruby gems/Sobre o ruby gems.md",
+    "ruby gems",
+    "Comandos/Sobre o IRB.md",
+    "Comandos",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,4 @@
+## HTTP
+HTTP é um protocolo da internet que significa protocolo de transferência de hipertexto, ele é utilizado para a transferência de dados entre um cliente e um servidor. Quando você digita o endereço de um site no navegador é enviado uma solicitação HTTP para o servidor do site e o mesmo responde com o conteúdo da página que o navegador exibe.
+## HTTPS
+O HTTPS é uma versão segura do protocolo HTTP, significa protocolo de transferência segura de hipertexto, ele é utilizado para garantir a segurança da comunicação entre o cliente e o servidor. Ele utiliza de criptografia para proteger os dados transmitidos entre o cliente e o servidor, isso significa que informações como dados pessoais, senhas, etc. são criptografadas e apenas podem ser descriptografadas por meio de uma chave impedindo assim a intercepção de terceiros. Além disso o HTTPS garante que os dados transmitidos não sejam alterados ou corrompidos, ou seja, garante que serão entregues de forma integra.
