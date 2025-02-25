@@ -1,0 +1,1 @@
+O processo de compilação é aquele em que o ambiente de programação e o compilador, vão analisar todo o código e irá transformar o código em um arquivo executável, ele basicamente transforma um arquivo do tipo texto para um arquivo executável e isso é feito pelo processo de compilação. 
