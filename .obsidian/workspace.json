@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/aula2/Depuração de código(Debug).md",
+                "file": "C/aula 4/Entrada de dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Depuração de código(Debug)"
+              "title": "Entrada de dados"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -157,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Abrir importador Markdown": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -167,13 +168,22 @@
   },
   "active": "7e8d29b57b2694c1",
   "lastOpenFiles": [
-    "C/aula1/C no geral.md",
-    "C/aula2/Depuração de código(Debug).md",
-    "C/aula2",
-    "C/aula1/Oque é complilar.md",
+    "C/aula 4/Variáveis.md",
+    "C/aula 4/Entrada de dados.md",
+    "imagens/Pasted image 20250226201607.png",
+    "C/aula 3/Especificadores de formato e sequências de escape.md",
+    "C/aula 4",
+    "imagens/Pasted image 20250225193120.png",
+    "imagens/Pasted image 20250225193029.png",
+    "imagens/Pasted image 20250225192924.png",
+    "C/aula 2/Depuração de código(Debug).md",
+    "C/aula 3",
+    "C/aula 1/C no geral.md",
+    "C/aula 2",
+    "C/aula 1/Oque é complilar.md",
     "Sem título.md",
     "estrutura de dados/Estruturas de dado.md",
-    "C/aula1",
+    "C/aula 1",
     "C",
     "backend django/explicação de código.md"
   ]
