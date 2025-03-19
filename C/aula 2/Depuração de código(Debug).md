@@ -1,1 +1,0 @@
-Debugar um código é executar o código passo a passo para que seja possível identificar o que está acontecendo em tempo de execução no código.

@@ -12,3 +12,18 @@ int idade;
 
 idade = 10;
 ```
+
+
+
+## Constantes 
+Para criar constantes em C é utilizado a diretiva `#define` de preferência fora do escopo da função main e sem a necessidade do sinal de atribuição e do ponto e vírgula no final:
+```
+#define num 20
+#define texto "Hello world!"
+
+int main() {
+	printf("%d %s\n", num, texto);
+
+	return 0;
+}
+```

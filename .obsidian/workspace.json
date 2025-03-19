@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "22b83965dd1383db",
+        "id": "76ddbe2ea9d2d7ef",
         "type": "tabs",
         "children": [
           {
-            "id": "7e8d29b57b2694c1",
+            "id": "79a4f4200e416f96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/aula 4/Entrada de dados.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Entrada de dados"
+              "title": "Nova aba"
             }
           }
         ]
@@ -166,23 +162,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e8d29b57b2694c1",
+  "active": "a2d08b2a1b3f4931",
   "lastOpenFiles": [
-    "C/aula 4/Variáveis.md",
-    "C/aula 4/Entrada de dados.md",
-    "imagens/Pasted image 20250226201607.png",
-    "C/aula 3/Especificadores de formato e sequências de escape.md",
-    "C/aula 4",
-    "imagens/Pasted image 20250225193120.png",
-    "imagens/Pasted image 20250225193029.png",
-    "imagens/Pasted image 20250225192924.png",
+    "kotlin/desenvolvimento mobile",
+    "imagens/Pasted image 20250317195339.png",
+    "C/laços de repetição.md",
+    "C/Vetores.md",
+    "imagens/Pasted image 20250310093403.png",
+    "imagens/Pasted image 20250305081014.png",
+    "C/C no geral.md",
+    "C/Operadores.md",
+    "C/Tipos de dados.md",
+    "C/Variáveis e constantes.md",
+    "C/Entrada de dados.md",
+    "C/Condicionais.md",
+    "imagens/Pasted image 20250304140653.png",
+    "imagens/Pasted image 20250304140649.png",
+    "imagens/Pasted image 20250304140110.png",
+    "imagens/Pasted image 20250304135956.png",
+    "C/Especificadores de formato e sequências de escape.md",
     "C/aula 2/Depuração de código(Debug).md",
-    "C/aula 3",
-    "C/aula 1/C no geral.md",
-    "C/aula 2",
-    "C/aula 1/Oque é complilar.md",
-    "Sem título.md",
+    "C/aula 7",
+    "imagens/Pasted image 20250304133431.png",
+    "imagens/Pasted image 20250304130423.png",
+    "C/aula 6",
+    "C/Oque é complilar.md",
+    "imagens/Pasted image 20250304122529.png",
     "estrutura de dados/Estruturas de dado.md",
+    "C/aula 5",
+    "C/aula 4",
+    "C/aula 3",
+    "C/aula 2",
+    "Sem título.md",
     "C/aula 1",
     "C",
     "backend django/explicação de código.md"
