@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "76ddbe2ea9d2d7ef",
+        "id": "73c9dbdfec11867c",
         "type": "tabs",
         "children": [
           {
-            "id": "79a4f4200e416f96",
+            "id": "5af6ba625ce07388",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "kotlin/desenvolvimento mobile/XML.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "XML"
             }
           }
         ]
@@ -162,8 +166,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a2d08b2a1b3f4931",
+  "active": "5af6ba625ce07388",
   "lastOpenFiles": [
+    "Pasted image 20250324184718.png",
+    "kotlin/desenvolvimento mobile/XML.md",
+    "imagens/Pasted image 20250324184723.png",
+    "kotlin/desenvolvimento mobile/Sem título 1.md",
+    "kotlin/desenvolvimento mobile/a 1.md",
+    "kotlin/desenvolvimento mobile/a.md",
+    "kotlin/Fundamentos básicos/Sintaxe básica.md",
     "kotlin/desenvolvimento mobile",
     "imagens/Pasted image 20250317195339.png",
     "C/laços de repetição.md",
@@ -184,10 +195,8 @@
     "C/aula 2/Depuração de código(Debug).md",
     "C/aula 7",
     "imagens/Pasted image 20250304133431.png",
-    "imagens/Pasted image 20250304130423.png",
     "C/aula 6",
     "C/Oque é complilar.md",
-    "imagens/Pasted image 20250304122529.png",
     "estrutura de dados/Estruturas de dado.md",
     "C/aula 5",
     "C/aula 4",
