@@ -1,4 +1,6 @@
 {
   "theme": "obsidian",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "accentColor": "#eaff4d",
+  "baseFontSize": 14
 }

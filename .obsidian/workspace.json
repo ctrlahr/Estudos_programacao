@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "73c9dbdfec11867c",
+        "id": "84ae081fb6bd338e",
         "type": "tabs",
         "children": [
           {
-            "id": "5af6ba625ce07388",
+            "id": "47daf117fb938a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kotlin/desenvolvimento mobile/XML.md",
+                "file": "java/Batismo de java/Nivel Intermediário/orientação a objetos/Classes e objetos uma introdução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XML"
+              "title": "Classes e objetos uma introdução"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5124969482422
   },
   "right": {
     "id": "c6901c8aa8cbedae",
@@ -166,45 +166,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5af6ba625ce07388",
+  "active": "a2d08b2a1b3f4931",
   "lastOpenFiles": [
-    "Pasted image 20250324184718.png",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Enums.md",
+    "imagens/Pasted image 20250620152127.png",
+    "imagens/Pasted image 20250620152034.png",
+    "imagens/Pasted image 20250620151748.png",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Construtores.md",
+    "imagens/Pasted image 20250620132438.png",
+    "imagens/Pasted image 20250620131601.png",
+    "imagens/Pasted image 20250620131424.png",
+    "imagens/Pasted image 20250620130559.png",
+    "imagens/Pasted image 20250620125922.png",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Polimorfismo.md",
+    "imagens/Pasted image 20250619140939.png",
+    "imagens/Pasted image 20250619140925.png",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Herança e interfaces.md",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Métodos e Parâmetros.md",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Classes e objetos uma introdução.md",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Pilares da OOP.md",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos/@override.md",
+    "java/Batismo de java/Nível iniciante/Arrays.md",
+    "Anotações Programador Pragmático/Capitulo 1.md",
+    "Anotações Programador Pragmático",
+    "java/Batismo de java/Nivel Intermediário/orientação a objetos",
+    "java/Batismo de java/Nivel Intermediário",
+    "java/Batismo de java/Nível iniciante/Atalhos.md",
+    "java/Batismo de java/Nível iniciante/Condicionais - Aula 8 e Aula 11.md",
+    "java/Batismo de java/Nível iniciante/Variáveis e tipagem de dados - Aula 4, Aula 5 e Aula 7.md",
+    "java/Batismo de java/Nível iniciante/laços de repetição.md",
+    "java/Batismo de java/Nível iniciante/Scanners e validação de dados - Aula 10.md",
+    "Atalhos hyprland.md",
+    "java/Batismo de java/Nível iniciante",
+    "java/Estudos por fora/variáveis.md",
+    "java/Estudos por fora/Condicionais.md",
+    "java/Estudos por fora",
+    "java/Estudos por fora/Básico.md",
+    "java/Batismo de java",
+    "java/Estudos por fora/Tipos primitivos.md",
     "kotlin/desenvolvimento mobile/XML.md",
-    "imagens/Pasted image 20250324184723.png",
     "kotlin/desenvolvimento mobile/Sem título 1.md",
     "kotlin/desenvolvimento mobile/a 1.md",
     "kotlin/desenvolvimento mobile/a.md",
     "kotlin/Fundamentos básicos/Sintaxe básica.md",
     "kotlin/desenvolvimento mobile",
-    "imagens/Pasted image 20250317195339.png",
-    "C/laços de repetição.md",
-    "C/Vetores.md",
-    "imagens/Pasted image 20250310093403.png",
-    "imagens/Pasted image 20250305081014.png",
-    "C/C no geral.md",
-    "C/Operadores.md",
-    "C/Tipos de dados.md",
-    "C/Variáveis e constantes.md",
-    "C/Entrada de dados.md",
-    "C/Condicionais.md",
-    "imagens/Pasted image 20250304140653.png",
-    "imagens/Pasted image 20250304140649.png",
-    "imagens/Pasted image 20250304140110.png",
-    "imagens/Pasted image 20250304135956.png",
-    "C/Especificadores de formato e sequências de escape.md",
-    "C/aula 2/Depuração de código(Debug).md",
     "C/aula 7",
-    "imagens/Pasted image 20250304133431.png",
     "C/aula 6",
-    "C/Oque é complilar.md",
-    "estrutura de dados/Estruturas de dado.md",
-    "C/aula 5",
-    "C/aula 4",
-    "C/aula 3",
-    "C/aula 2",
-    "Sem título.md",
-    "C/aula 1",
-    "C",
-    "backend django/explicação de código.md"
+    "C/aula 5"
   ]
 }
