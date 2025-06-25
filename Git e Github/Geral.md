@@ -14,3 +14,6 @@ O git foi criado pelo Linus torvalds, ele foi criado pois o Linus estava precisa
 git config --global credential.helper store
 ```
 - Comando para deixar as credenciais já setadas para não precisar colocar elas todo push.
+
+
+uma pull request é quando se tem um repositório no fork e é alterada algo, assim, você pode mandar uma requisição, uma request para o dono do repositório aceitar ou não sua atualização no repositório oficial.
