@@ -18,6 +18,28 @@ Depois, atribuí-se os valores a respectivos objetos:
 ![[Pasted image 20250615140603.png]]
 
 
-## Classes abstratas
+## Classes abstratas e métodos abstratos
+
+### Classes abstratas
+Classes abstratas, também conhecidas como super classes servem para padronizar o código, para forçar todas as sub-classes que nascerem a partir de uma determinada classe a seguir um padrão determinado.
+
+##### Diferenças de uma classe abstrata para uma classe padrão
+1. Classes abstratas não podem ter objetos criados a partir dela, não podem ser instanciadas como as [[Herança e interfaces|| Interfaces]] que também não podem ser instanciadas. Elas apenas são criadas para serem extendidas/herdadas.
+2. Classes abstratas tem a capacidade de ter métodos abstratos.
+
+##### Diferenças classe abstrata para interfaces
+1. 
 
 
+##### Como tornar uma classe abstrata
+é bem simples, basta apenas depois da declaração de pública, usar a palavra chave `abstract`:
+![[Pasted image 20250625143739.png]]
+Assim, estará tornando uma classe normal em uma classe abstrata.
+
+
+
+### Métodos abstratos
+Métodos abstratos são métodos que são declarados sem corpo:
+![[Pasted image 20250625144825.png]]
+
+eles devem ser instanciados na classe que herdar a super classe.
