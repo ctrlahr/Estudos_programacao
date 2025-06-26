@@ -28,8 +28,9 @@ Classes abstratas, também conhecidas como super classes servem para padronizar 
 2. Classes abstratas tem a capacidade de ter métodos abstratos.
 
 ##### Diferenças classe abstrata para interfaces
-1. 
-
+1. Toda vez que um método é criado em uma interface ele é obrigatoriamente abstrato.
+2. Toda vez que uma interface é criada não é permitido apenas a declaração da variável e depois, quando ela for implementada dar o valor a variável, toda variável criada em interfaces precisam obrigatoriamente já serem declaradas com um valor pois tudo é automaticamente final.
+ 
 
 ##### Como tornar uma classe abstrata
 é bem simples, basta apenas depois da declaração de pública, usar a palavra chave `abstract`:
