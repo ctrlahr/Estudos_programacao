@@ -15,3 +15,4 @@ A anotação Override é capaz de sobrescrever um método, por exemplo, em um pr
 *Classe Uchiha:*
 ![[Pasted image 20250619140939.png]]
 
+a anotação override é uma boa prática, ela não é obrigatória mas é uma boa prática,  mas também serve para evitar erros.
