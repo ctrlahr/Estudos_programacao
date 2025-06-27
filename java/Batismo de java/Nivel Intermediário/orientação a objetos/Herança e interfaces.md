@@ -27,3 +27,6 @@ Depois, como os métodos apenas foram declarados na interface, agora é necessá
 - Interfaces por padrão já são públicas, por isso não é necessário na criação de seus métodos falar que eles são públicos.
 
 
+A herança múltipla acontece quando são utilizadas múltiplas interfaces em uma só classe, isso é feito da seguinte forma:
+![[Pasted image 20250627001723.png]]
+
