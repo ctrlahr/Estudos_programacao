@@ -1,4 +1,17 @@
+
 ## HTTP
-HTTP é um protocolo da internet que significa protocolo de transferência de hipertexto, ele é utilizado para a transferência de dados entre um cliente e um servidor. Quando você digita o endereço de um site no navegador é enviado uma solicitação HTTP para o servidor do site e o mesmo responde com o conteúdo da página que o navegador exibe.
+O significado da sigla é protocolo de transferência de hipertexto, é ele que é utilizado para acessar as páginas web. hipertextos são as próprias páginas, então o que esse protocolo faz é transferir o hipertexto(página) do servidor para a máquina do usuário, então ao acessar uma página da web, o que está sendo feito é transferir hipertexto do servidor para o cliente.
+
+
 ## HTTPS
-O HTTPS é uma versão segura do protocolo HTTP, significa protocolo de transferência segura de hipertexto, ele é utilizado para garantir a segurança da comunicação entre o cliente e o servidor. Ele utiliza de criptografia para proteger os dados transmitidos entre o cliente e o servidor, isso significa que informações como dados pessoais, senhas, etc. são criptografadas e apenas podem ser descriptografadas por meio de uma chave impedindo assim a intercepção de terceiros. Além disso o HTTPS garante que os dados transmitidos não sejam alterados ou corrompidos, ou seja, garante que serão entregues de forma integra.
+A sigla significa simplesmente protocolo de transferência de hipertexto seguro, a diferença é que o HTTPS acessa páginas de forma criptografada, por isso ele é mais seguro que o HTTP já que os dados, os hipertextos, serão transferidos do servidor para a máquina do usuário de maneira criptografada, assim, ela só é descriptografada ao chegar na máquina de destino.
+O HTTPS pode ser a junção tanto do HTTP com o SSL quanto do HTTP com o TLS.
+##### TLS
+A sigla significa transport layer security, é um protocolo que por meio da criptografia fornece confidencialidade e integridade nas comunicações, ele também pode ser utilizado para prover autenticação, ou seja, verificar que quem está se comunicando é realmente quem diz ser.
+
+##### SSL
+A sigla significa Secure Sockets Layer e é um protocolo que por meio de criptografia fornece confidencialidade e integridade nas comunicações da mesma forma que o TLS e também pode ser utilizado para prover autenticação.
+
+
+
+Os protocolos HTTP e HTTPS ficam localizados na camada de aplicação, são protocolos que correspondem a uma aplicação que é acessar algo na web
