@@ -22,4 +22,13 @@ Já um construtor `AllArgs` é um pouco mais complexo:
 Existe um atalho extremamente útil que é o `Ctrl+N`, ele abre essa tela:
 ![[Pasted image 20250620132438.png]]
 Nessa tela é possível criar tudo isso que já está ai, para criar construtores, criar construtores quando eles tem muitos atributos é algo muito trabalhoso, mas com esse atalho se torna muito fácil. Basta apenas selecionar os atributos que você quer que façam parte do construtor e apertar "Ok".
- 
+
+
+
+### Construtores para subclasses
+Para ter construtores em subclasses é preciso informar que os atributos que vão ser pegos da classe mãe são da classe mãe, para isso é usado o `super();`, dessa forma:
+![[Pasted image 20250626212135.png]]
+
+e para um construtor noArgs:
+![[Pasted image 20250626212422.png]]
+

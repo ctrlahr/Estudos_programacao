@@ -1,3 +1,6 @@
+
+## Herança
+
 A herança serve para facilitar um trabalho que levaria muito tempo, tendo uma classe mãe e criando classes filhas que vão herdar caracteristicas da classe principal, por exemplo. Se Existe uma classe ninja com atributos de nome, aldeia, idade, etc, e existe uma classe uchiha, essa classe uchiha vai ter atributos específicos ou até mesmo métodos específicos da classe uchiha mas ela vai herdar nome, idade, aldeia, etc da classe mãe ninja.
 
 Como é feita a herança em java:
@@ -22,3 +25,5 @@ Depois, como os métodos apenas foram declarados na interface, agora é necessá
 - Interfaces não conseguem extender de outras classes mas conseguem extender de outras interfaces.
 - Interfaces não conseguem ser implementadas, ou seja, não é possível criar objetos a partir de interfaces, é necessário que elas sejam implementadas por outras classes ou estendidas por outras interfaces.
 - Interfaces por padrão já são públicas, por isso não é necessário na criação de seus métodos falar que eles são públicos.
+
+
