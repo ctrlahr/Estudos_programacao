@@ -12,4 +12,4 @@ Por exemplo, tem um ataque básico que será comum entre todos os ninjas como ar
 
 
 ## Encapsulamento 
-É a capacidade de proteger variaveis e classes para que não haja vazamento e mantendo assim os objetos protegidos.
+o [[encapsulamento]] é a capacidade de proteger variaveis e classes para que não haja vazamento e mantendo assim os objetos protegidos.
