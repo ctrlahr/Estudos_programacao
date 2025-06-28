@@ -1,4 +1,10 @@
+## Dependências essenciais em todo projeto
+- Spring web
+- Spring data JPA
 
-| Nome       | O que faz                                                   |
-| ---------- | ----------------------------------------------------------- |
-| Spring Web | É uma dependência que ajuda o dev a se conectar a internet. |
+
+## Spring web
+
+
+## Spring Data JPA
+Sua sigla significa "java persistence API", a spring data JPA é uma dependência que permite com que o dev trabalhe com banco de dados SQL no projeto spring.
