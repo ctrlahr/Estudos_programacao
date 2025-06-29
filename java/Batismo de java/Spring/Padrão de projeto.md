@@ -1,0 +1,2 @@
+Um padrão de projeto é uma solução para problemas que acontecem no desenvolvimento de uma aplicação, elas são estruturas ou templates que ajudam a organizar o código de forma mais eficiente, escalável para assim evitar erros no futuro. 
+Os padrões de projetos resolvem problemas recorrentes como organização de código, separação de responsabilidades, facilidade de manutenção e testabilidade, eles oferecem uma linguagem comum entre desenvolvedores e promovem boas práticas de programação.

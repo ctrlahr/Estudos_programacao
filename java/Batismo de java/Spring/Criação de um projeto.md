@@ -12,3 +12,13 @@ Para criar um projeto com o intellij idea free é preciso abrir um site da comun
 	- *Package name*: É o nome do package, é uma boa convenção que ele seja o mesmo do nome da pasta do projeto(artifact)
 	- *Packaging*: É a maneira que o projeto será envelopado
 	- *Java*: É a versão do java.
+
+
+
+## Processo padrão de criação de um projeto
+1. Criação do projeto no geral
+2. Definição e separação dos arquivos do projeto de acordo com um [[padrão de projeto]].
+3. Criação dos primeiros modelos.
+4. Criação do arquivo controller para criação da primeira [[Criação de rotas|| rota]] e das rotas seguintes.
+5. [[Transformar classes em entidades de um banco de dados|| Transformação de classes em entidades]] de um banco de dados.
+6. 
