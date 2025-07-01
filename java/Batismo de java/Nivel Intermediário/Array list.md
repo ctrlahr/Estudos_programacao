@@ -1,5 +1,9 @@
-Listas são basicamente arrays com super poderes, são arrays que não são estáticos e tem métodos específicos. As listas tem a capacidade de armazenar diferentes tipos de dados, então, em uma única lista, é possível armazenar números, palavras, bools e até mesmo objetos:
+Também chamado de listas sequenciais as listas são basicamente arrays com super poderes, são arrays que não são estáticos e tem métodos específicos. As listas tem a capacidade de armazenar diferentes tipos de dados, então, em uma única lista, é possível armazenar números, palavras, bools e até mesmo objetos:
 ![[Pasted image 20250630135532.png]]
+
+
+Listas são extremamente anti-performáticos quando o assunto é realizar operações de realocação e remoção de itens, pois ao por exemplo, alocar um elemento no index 2, todos os elementos que estão nos index na frente do 2 e o próprio elemento do index 2 devem ser movidos para a direita e depois os index são rearranjados.
+Vale citar que a forma que as listas fazem isso é criando uma cópia da lista e realizando esse processo na cópia para assim depois a lista original ser coletada pelo garbage collector.
 
 
 ## Diferença de listas para arrays
