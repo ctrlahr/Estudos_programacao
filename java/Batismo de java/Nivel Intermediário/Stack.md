@@ -1,5 +1,8 @@
 Stack é uma estrutura de dado em que o primeiro que entra é o ultimo que saí, basicamente se por exemplo, a palavra "oi" entra em uma stack ela está ocupando a posição 1 da stack. Quando algo novo é inserido a essa stack automaticamente este item se torna o item na posição 1 e o item anteriormente na posição 1 desce para a posição 2, dessa forma também, quando for para remover itens da stack o item na posição 2 será removido depois do item na posição 1.
+<<<<<<< HEAD
 Stacks utilizam do principio de funcionamento LIFO(Last in, First out).
+=======
+>>>>>>> 67278526c54f0202424d4a7eab3ed26b4eb41bc5
 
 
 ## Como criar stacks
