@@ -26,3 +26,8 @@ As linked lists devem ser utilizadas no lugar das array lists principalmente qua
 ##### Qual a diferença de uma lista encadeada para um array list
 - Principalmente, ArrayLists são ótimas quando a tarefa é pesquisar algo dentro delas, algum elemento ou algo do tipo, mas sendo péssimas e extremamente anti-performáticas quando o quesito é operações de colocação e remoção de itens, isso pode ser explicado mais detalhadamente [[Array list||aqui]].
 - Já em contra partida, Linked lists são horríveis para pesquisar algo, diferente das Array lists.
+
+
+Para pegar elementos por índices em linked lists, é necessário utilizar o método `get()`, dessa forma: 
+![[Pasted image 20250702155605.png]]
+Sendo necessário, colocar dentro de um print para fazer algo com o retorno deste método.
