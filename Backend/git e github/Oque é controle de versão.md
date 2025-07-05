@@ -1,2 +1,0 @@
-O git é uma forma de nós podermos rastrear todos os arquivos de um projeto nosso. Podendo assim voltarmos versões, avançarmos, etc. 
-Seus objetivos incluem velocidade, integridade de dados e suporte para fluxos de trabalho não lineares distribuídos.

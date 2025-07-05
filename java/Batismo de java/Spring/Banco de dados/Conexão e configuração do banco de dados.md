@@ -1,6 +1,7 @@
 
 
 ## H2
+H2 é um banco de dados em memória, ou seja, ele guarda os dados temporariamente em um lugar na memória do computador, sendo um banco de dados mais utilizado realmente para projetos pequenos ou para estudo mesmo.
 Para fazer a conexão com o Db H2 é necessário abrir o console do H2 no navegador depois de claro, já ter instalado as dependências referentes a ele, com isso, vai ser necessário ir até o aplication.properties e quase que copiar o que está no console:
 
 
@@ -9,9 +10,11 @@ Para fazer a conexão com o Db H2 é necessário abrir o console do H2 no navega
 ![[Pasted image 20250704150354.png]]
 
 
-É necessário também fazer configurações de delay para fechar e se o H2 vai fechar quando sair da aplicação, para isso basta colocar na frente da configuração de Url :
+É necessário também fazer configurações de delay para fechar e se o H2 vai fechar quando sair da aplicação, para isso basta colocar na frente da configuração de Url:
 ![[Pasted image 20250704153144.png]]
 - É importante que não tenham espaços.
+- Especificamente para evitar que os dados salvos sejam perdidos na reinicialização da aplicação é importante adicionar esse comando no `.env` e nas variáveis de ambiente apenas selecionar a url.
+
 
 
 Depois de toda a configuração, agora acessando o painel do console é possível entrar no banco de dados por meio do usuário e da senha definidos no arquivo de configuração.
