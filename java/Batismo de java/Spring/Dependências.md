@@ -15,6 +15,8 @@ Para utilizar dessa funcionalidade do ORM é necessário extender o `JpaReposito
 O ORM funciona quase que como um tradutor da linguagem que está sendo utilizada para a linguagem do banco de dados. Ele vai mapear toda a classe passada para ele e vai traduzir para o DB.
 ![[Pasted image 20250704134700.png]]
 
+##### Hibernate
+Hibernate é um organizador, após a tradução que o ORM faz para o banco de dados o hibernate faz a organização, pegando o mapeamento da classe e transformando em forma de tabela.
 
 
 
@@ -30,3 +32,18 @@ o lombok também cria getters e setters, basicamente da mesma forma, usando a an
 ## Bancos de dados
 Para trabalhar com bancos de dados é necessário baixar a dependência relativa ao banco de dados e adicionar ao pom.xml no caso do maven, segue um exemplo com o H2: 
 ![[Pasted image 20250704143724.png]]
+
+
+
+## Flyway
+O `flyway` é utilizado para se ter um sistema de versionamento para o banco de dados, dessa forma tornando mais fácil algumas operações, funciona basicamente como um git mas para banco de dados.
+
+Para usar o versionamento de banco de dados é necessário criar uma pasta para guardar essas alterações que forem feitas, ela deve ser criada na pasta de `resources` e dentro da pasta resources é legal que exista também uma outra pasta chamada migrations e dentro dessa pasta terão as versões do banco de dados.
+Cada arquivo de versão tem uma nomenclatura especifica, eles sempre começam com um "V" e depois o número da versão seguido de dois underlines, o nome da versão e a extensão `.sql`: 
+![[Pasted image 20250705134516.png]]
+
+E posteriormente, deve ser escrito nesse arquivo a alteração que vai acontecer no banco de dados:
+![[Pasted image 20250705134950.png]]
+Dessa forma, toda e qualquer alteração que seria feita feita direto no painel do banco de dados agora pode ser feita na IDE.
+
+Além disso, também é necessário dar a autorização de execução, nesse caso o flyway precisa ser ativado, deve ser passado onde ele vai trabalhar e também é necessário falar para o flyway que se já existir algo no banco de dados a migration deve ser feita para o que já existe, então se algo já existe, a migration deve ser feita para a tabela já existente e isso tudo no `aplications.properties` que cuida das permissões e configurações do projeto:
