@@ -3,7 +3,11 @@
 
 ## Spring Data JPA
 Sua sigla significa "java persistence API", a spring data JPA é uma dependência que permite com que o dev trabalhe com banco de dados SQL no projeto spring.
-É uma abstração(Maneira de simplificar um processo) que permite trabalhar com banco de dados.
+É uma abstração(Maneira de simplificar um processo) que permite trabalhar com banco de dados. 
+O JPA também oferece diversos métodos que permitem com que o processo de [[serialização de dados]] se torne muito mais fácil, permitindo a realização de queries por meio desses métodos oferecidos.
+
+##### `findAll()`
+O método `findAll` retorna todas as informações de uma tabela específica.
 
 ##### ORM
 A dependência do JPA traz junto o ORM que uma de suas funcionalidades é atuar como um scanner que vai escanear a classe pedida e vai passar seus atributos para o banco de dados, basicamente traduzindo o código java em código que o banco de dados entenda.

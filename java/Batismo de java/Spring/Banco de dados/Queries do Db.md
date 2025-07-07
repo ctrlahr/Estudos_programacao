@@ -22,3 +22,4 @@ O `ALTER TABLE` é utilizado para alterar alguma propriedade de uma tabela selec
 Adiciona uma nova coluna a tabela selecionada, além de que deve estar abaixo do alter table indicando a tabela: 
 ![[Pasted image 20250705010249.png]]
 - é necessário passar o nome da  coluna e o tipo dela, nesse caso a coluna se chama rank e recebe o tipo varchar.
+
