@@ -1,0 +1,1 @@
+Um optional é quase como uma caixa onde pode ter algo nela ou não.

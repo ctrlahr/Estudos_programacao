@@ -9,6 +9,11 @@ O JPA também oferece diversos métodos que permitem com que o processo de [[ser
 ##### `findAll()`
 O método `findAll` retorna todas as informações de uma tabela específica.
 
+##### `findById()`
+O `findById` é utilizado para acessar algo especificando o id, ele é utilizado em conjunto com o [[Optional]] 
+
+
+
 ##### ORM
 A dependência do JPA traz junto o ORM que uma de suas funcionalidades é atuar como um scanner que vai escanear a classe pedida e vai passar seus atributos para o banco de dados, basicamente traduzindo o código java em código que o banco de dados entenda.
 Para utilizar dessa funcionalidade do ORM é necessário extender o `JpaRepository` em alguma interface ou classe como uma interface de repository que vai conectar o banco de dados ao código:
