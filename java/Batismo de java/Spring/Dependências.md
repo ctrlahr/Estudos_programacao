@@ -14,6 +14,7 @@ O `findById` é utilizado para acessar algo especificando o id, ele é utilizado
 
 ##### `save()`
 O método save faz uma [[serialização de dados||serialização de dados inversa]], onde é pegado um json enviado pelo usuário e esse json é passado para o banco de dados. 
+O método save é bastante utilizado em operações de atualizar algo no Db por ter a função que se um id existente for passado o conteúdo será modificado.
 
 ##### `deleteById()`
 Como o próprio nome já fala, deleta algo da tabela sendo específicado por id. No caso da utilização no spring é necessário a criação do método no `service` e de outro método no `controller`, assim como os outros.
@@ -37,6 +38,9 @@ Para utilizar dessa funcionalidade do ORM é necessário extender o `JpaReposito
 ![[Pasted image 20250704133005.png]]
 - é necessário passar a classe que o JPA quer que o ORM fique escaneando
 - Também é necessário passar o tipo de dado do ID da classe.
+
+É válido lembrar que quando se tenta deletar um item que está como chave estrangeira pra outra tabela não é possível deletar justamente por que o outro item da outra tabela necessita que o elemento da chave estrangeira exista.
+
 
 O ORM funciona quase que como um tradutor da linguagem que está sendo utilizada para a linguagem do banco de dados. Ele vai mapear toda a classe passada para ele e vai traduzir para o DB.
 ![[Pasted image 20250704134700.png]]
