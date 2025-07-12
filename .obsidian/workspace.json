@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "84ae081fb6bd338e",
+        "id": "48d777528fdda84b",
         "type": "tabs",
         "children": [
           {
-            "id": "47daf117fb938a6b",
+            "id": "7b9ee6ebf04cac5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Nivel Intermediário/orientação a objetos/Classes e objetos uma introdução.md",
+                "file": "java/Batismo de java/Spring/serialização de dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes e objetos uma introdução"
+              "title": "serialização de dados"
+            }
+          },
+          {
+            "id": "46fbb18cf217c0d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Batismo de java/Spring/Dependências.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dependências"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,30 +172,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Abrir importador Markdown": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "a2d08b2a1b3f4931",
+  "active": "46fbb18cf217c0d1",
   "lastOpenFiles": [
+    "imagens/Pasted image 20250712010941.png",
+    "imagens/Pasted image 20250712010918.png",
+    "java/Batismo de java/Spring/serialização de dados.md",
+    "imagens/Pasted image 20250711132817.png",
+    "imagens/Pasted image 20250711132815.png",
+    "imagens/Pasted image 20250711132139.png",
+    "java/Batismo de java/Spring/Padrão de projeto.md",
+    "java/Batismo de java/Spring/Criação de um projeto.md",
+    "README.md",
+    "Pasted image 20250711131914.png",
+    "imagens/Pasted image 20250711132016.png",
+    "java/Batismo de java/Spring/Dependências.md",
+    "java/Batismo de java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
+    "java/Batismo de java/Spring/Banco de dados/Queries do Db.md",
+    "java/Batismo de java/Spring/Arquivos padrão.md",
+    "java/Batismo de java/Spring/Criação de rotas.md",
+    "java/Batismo de java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
+    "java/Batismo de java/Nível Avançado/Tempo de compilação X Tempo de execução.md",
+    "java/Batismo de java/Nível Avançado/Escopo estático e variáveis globais.md",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos/Enums.md",
     "imagens/Pasted image 20250620152127.png",
     "imagens/Pasted image 20250620152034.png",
     "imagens/Pasted image 20250620151748.png",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos/Construtores.md",
     "imagens/Pasted image 20250620132438.png",
-    "imagens/Pasted image 20250620131601.png",
-    "imagens/Pasted image 20250620131424.png",
-    "imagens/Pasted image 20250620130559.png",
-    "imagens/Pasted image 20250620125922.png",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos/Polimorfismo.md",
-    "imagens/Pasted image 20250619140939.png",
-    "imagens/Pasted image 20250619140925.png",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos/Herança e interfaces.md",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos/Métodos e Parâmetros.md",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos/Classes e objetos uma introdução.md",
@@ -194,21 +222,9 @@
     "java/Batismo de java/Nível iniciante/Atalhos.md",
     "java/Batismo de java/Nível iniciante/Condicionais - Aula 8 e Aula 11.md",
     "java/Batismo de java/Nível iniciante/Variáveis e tipagem de dados - Aula 4, Aula 5 e Aula 7.md",
-    "java/Batismo de java/Nível iniciante/laços de repetição.md",
-    "java/Batismo de java/Nível iniciante/Scanners e validação de dados - Aula 10.md",
-    "Atalhos hyprland.md",
     "java/Batismo de java/Nível iniciante",
-    "java/Estudos por fora/variáveis.md",
-    "java/Estudos por fora/Condicionais.md",
     "java/Estudos por fora",
-    "java/Estudos por fora/Básico.md",
     "java/Batismo de java",
-    "java/Estudos por fora/Tipos primitivos.md",
-    "kotlin/desenvolvimento mobile/XML.md",
-    "kotlin/desenvolvimento mobile/Sem título 1.md",
-    "kotlin/desenvolvimento mobile/a 1.md",
-    "kotlin/desenvolvimento mobile/a.md",
-    "kotlin/Fundamentos básicos/Sintaxe básica.md",
     "kotlin/desenvolvimento mobile",
     "C/aula 7",
     "C/aula 6",

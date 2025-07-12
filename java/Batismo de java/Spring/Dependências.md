@@ -12,6 +12,23 @@ O método `findAll` retorna todas as informações de uma tabela específica.
 ##### `findById()`
 O `findById` é utilizado para acessar algo especificando o id, ele é utilizado em conjunto com o [[Optional]] 
 
+##### `save()`
+O método save faz uma [[serialização de dados||serialização de dados inversa]], onde é pegado um json enviado pelo usuário e esse json é passado para o banco de dados. 
+
+##### `deleteById()`
+Como o próprio nome já fala, deleta algo da tabela sendo específicado por id. No caso da utilização no spring é necessário a criação do método no `service` e de outro método no `controller`, assim como os outros.
+
+*Service:*
+![[Pasted image 20250712010918.png]]
+- É criada uma função que não retorna nada e ela recebe um `Long` id como parâmetro
+- Posteriormente apenas é utilizado da injeção de dependência para fazer uso do método `deleteById` e passar como parâmetro o id 
+
+
+*controller:*
+![[Pasted image 20250712010941.png]]
+- No controller, é definido que o parâmetro da função para deletar é uma variável de caminho, sendo assim, é necessário passar o id do que deve ser removido do Db pela URL da aplicação.
+- Depois, apenas é chamada a função criada no `service` por meio da injeção de dependência do mesmo
+- Por fim apenas é retornado algo para o usuário ter ciência que algo foi deletado.
 
 
 ##### ORM
@@ -39,7 +56,7 @@ o lombok também cria getters e setters, basicamente da mesma forma, usando a an
 
 
 ## Bancos de dados
-Para trabalhar com bancos de dados é necessário baixar a dependência relativa ao banco de dados e adicionar ao pom.xml no caso do maven, segue um exemplo com o H2: 
+Para trabalhar com bancos de dados é necessário baixar a dependência relativa ao banco de dados e adicionar ao `pom.xml` no caso do maven, segue um exemplo com o H2: 
 ![[Pasted image 20250704143724.png]]
 
 

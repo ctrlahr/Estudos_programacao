@@ -48,3 +48,23 @@ Após isso, o outro processo é realizado no `controller`, deve ser criado um m�
 
 Esse código retorna algo parecido com isso:
 ![[Pasted image 20250707113138.png]]
+
+
+
+## Serialização inversa
+A serialização inversa no Spring e com o [[Dependências||JPA]] é feita por meio do método `save()`, ele é utilizado para realizar uma requisição POST onde serão passadas informações para o banco de dados, diferente de requisições do tipo GET que pegam informações do Db. Dessa forma será feita uma serialização inversa dos dados, onde o usuário passará as informações e essas informações serão repassadas para o Db.
+
+Exemplo:
+
+*Service:*
+![[Pasted image 20250711132016.png]]
+- Nessa imagem é criado um método público com o propósito de utilizar o método save,
+- primeiro define o retorno desse método como `NinjaModel` já que o que será retornado deve ser um modelo do ninja
+- como parâmetro, para evitar colocar, nome, idade, email, etc, é passado a classe `NInjaModel` por completo já que a mesma apresenta esses atributos
+- como retorno, apenas é utilizado o método `save` com parâmetro do método `criarNinja`
+
+
+*Controller:*
+![[Pasted image 20250711132817.png]]
+- no método da requisição para criar um ninja é utilizado uma anotação de `@RequestBody` no parâmetro desse método, essa anotação é utilizada para indicar que um parâmetro de método deve ser vinculado ao corpo da requisição HTTP, basicamente instrui o sprig para deserializar automaticamente o conteúdo do corpo da requisição geralmente JSON para um objeto java.
+- depois, apenas é retornado o método criado por meio da injeção de dependência do service e passado como parâmetro o próprio parâmetro da função de criar ninja.
