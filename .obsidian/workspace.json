@@ -62,6 +62,7 @@
       {
         "id": "fb9fc7bd0ddde314",
         "type": "tabs",
+        "dimension": 69.58997722095673,
         "children": [
           {
             "id": "a2d08b2a1b3f4931",
@@ -104,10 +105,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "7b5a8afefd92e997",
+        "type": "tabs",
+        "dimension": 30.410022779043278,
+        "children": [
+          {
+            "id": "51921f5c453f753d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 242.5124969482422
+    "width": 242.0124969482422
   },
   "right": {
     "id": "c6901c8aa8cbedae",
@@ -116,6 +134,7 @@
       {
         "id": "2242dad1bfc8f2be",
         "type": "tabs",
+        "dimension": 56.888361045130644,
         "children": [
           {
             "id": "5c467ba4e0681c35",
@@ -123,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java/Batismo de java/Spring/Dependências.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Dependências"
             }
           },
           {
@@ -178,11 +198,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "ef161d60c7c45852",
+        "type": "tabs",
+        "dimension": 43.111638954869356,
+        "children": [
+          {
+            "id": "e283cdc76265ab45",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 253
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +231,28 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "46fbb18cf217c0d1",
+  "active": "5c467ba4e0681c35",
   "lastOpenFiles": [
-    "java/Batismo de java/Spring/Banco de dados/Queries do Db.md",
     "java/Batismo de java/Spring/Dependências.md",
+    "2025-07-13.md",
+    "java/Batismo de java/Spring/serialização de dados.md",
+    "java/Batismo de java/Spring/Banco de dados/Queries do Db.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
     "imagens/Pasted image 20250712010941.png",
     "imagens/Pasted image 20250712010918.png",
-    "java/Batismo de java/Spring/serialização de dados.md",
     "imagens/Pasted image 20250711132817.png",
     "imagens/Pasted image 20250711132815.png",
     "imagens/Pasted image 20250711132139.png",
@@ -216,31 +267,17 @@
     "java/Batismo de java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
     "java/Batismo de java/Nível Avançado/Tempo de compilação X Tempo de execução.md",
     "java/Batismo de java/Nível Avançado/Escopo estático e variáveis globais.md",
-    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Enums.md",
     "imagens/Pasted image 20250620152127.png",
     "imagens/Pasted image 20250620152034.png",
     "imagens/Pasted image 20250620151748.png",
-    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Construtores.md",
-    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Polimorfismo.md",
-    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Herança e interfaces.md",
-    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Métodos e Parâmetros.md",
-    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Classes e objetos uma introdução.md",
-    "java/Batismo de java/Nivel Intermediário/orientação a objetos/Pilares da OOP.md",
-    "java/Batismo de java/Nivel Intermediário/orientação a objetos/@override.md",
-    "java/Batismo de java/Nível iniciante/Arrays.md",
-    "Anotações Programador Pragmático/Capitulo 1.md",
     "Anotações Programador Pragmático",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos",
     "java/Batismo de java/Nivel Intermediário",
-    "java/Batismo de java/Nível iniciante/Atalhos.md",
-    "java/Batismo de java/Nível iniciante/Condicionais - Aula 8 e Aula 11.md",
-    "java/Batismo de java/Nível iniciante/Variáveis e tipagem de dados - Aula 4, Aula 5 e Aula 7.md",
     "java/Batismo de java/Nível iniciante",
     "java/Estudos por fora",
     "java/Batismo de java",
     "kotlin/desenvolvimento mobile",
     "C/aula 7",
-    "C/aula 6",
-    "C/aula 5"
+    "C/aula 6"
   ]
 }

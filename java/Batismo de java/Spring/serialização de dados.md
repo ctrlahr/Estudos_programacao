@@ -1,4 +1,4 @@
-Quando se está trabalhando com banco de dados, normalmente é necessário que tenha uma forma de o usuário conseguir se comunicar e realizar [[Queries do Db||queries]] do banco de dados sem estar dentro do painel administrativo do mesmo. Isso é feito na [[Padrão de projeto||arquitetura por camadas]] com o arquivo de `Service` que cuida da parte lógica do projeto. 
+ Quando se está trabalhando com banco de dados, normalmente é necessário que tenha uma forma de o usuário conseguir se comunicar e realizar [[Queries do Db||queries]] do banco de dados sem estar dentro do painel administrativo do mesmo. Isso é feito na [[Padrão de projeto||arquitetura por camadas]] com o arquivo de `Service` que cuida da parte lógica do projeto. 
 
 
 ## Serialização com todos os dados de uma tabela
