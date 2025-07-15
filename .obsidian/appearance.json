@@ -2,6 +2,6 @@
   "theme": "system",
   "nativeMenus": true,
   "accentColor": "#eaff4d",
-  "baseFontSize": 10,
+  "baseFontSize": 12,
   "cssTheme": "Catppuccin"
 }

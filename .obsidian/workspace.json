@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "81e82a45a82a3095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Batismo de java/Spring/DTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DTO"
+            }
+          },
+          {
             "id": "f39c615e33473a2a",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Spring/Dependências.md",
+                "file": "java/Batismo de java/Spring/DTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Dependências"
+              "title": "Links inversos para DTO"
             }
           },
           {
@@ -231,11 +245,27 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "5c467ba4e0681c35",
+  "active": "81e82a45a82a3095",
   "lastOpenFiles": [
-    "java/Batismo de java/Spring/Dependências.md",
-    "2025-07-13.md",
+    "imagens/Pasted image 20250714202208.png",
+    "imagens/Pasted image 20250714200951.png",
     "java/Batismo de java/Spring/serialização de dados.md",
+    "java/Batismo de java/Spring/DTO.md",
+    "imagens/Pasted image 20250714200353.png",
+    "imagens/Pasted image 20250714200341.png",
+    "imagens/Pasted image 20250714133113.png",
+    "imagens/Pasted image 20250714132328.png",
+    "imagens/Pasted image 20250714132006.png",
+    "imagens/Pasted image 20250714130449.png",
+    "imagens/Pasted image 20250714125840.png",
+    "imagens/Pasted image 20250714125823.png",
+    "imagens/Pasted image 20250714125744.png",
+    "java/Batismo de java/Spring/Criação de rotas.md",
+    "java/Batismo de java/Spring/Criação de um projeto.md",
+    "java/Batismo de java/Spring/Padrão de projeto.md",
+    "java/Batismo de java/Spring/Dependências.md",
+    "Git e Github/comandos.md",
+    "2025-07-13.md",
     "java/Batismo de java/Spring/Banco de dados/Queries do Db.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -251,25 +281,9 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "imagens/Pasted image 20250712010941.png",
-    "imagens/Pasted image 20250712010918.png",
-    "imagens/Pasted image 20250711132817.png",
-    "imagens/Pasted image 20250711132815.png",
-    "imagens/Pasted image 20250711132139.png",
-    "java/Batismo de java/Spring/Padrão de projeto.md",
-    "java/Batismo de java/Spring/Criação de um projeto.md",
     "README.md",
-    "Pasted image 20250711131914.png",
-    "imagens/Pasted image 20250711132016.png",
     "java/Batismo de java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
     "java/Batismo de java/Spring/Arquivos padrão.md",
-    "java/Batismo de java/Spring/Criação de rotas.md",
-    "java/Batismo de java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
-    "java/Batismo de java/Nível Avançado/Tempo de compilação X Tempo de execução.md",
-    "java/Batismo de java/Nível Avançado/Escopo estático e variáveis globais.md",
-    "imagens/Pasted image 20250620152127.png",
-    "imagens/Pasted image 20250620152034.png",
-    "imagens/Pasted image 20250620151748.png",
     "Anotações Programador Pragmático",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos",
     "java/Batismo de java/Nivel Intermediário",
