@@ -1,5 +1,7 @@
 DTO's são cópias de entidades em um banco de dados, não tendo acesso ao banco de dados e não tendo a responsabilidade de ser uma entidade. Eles oferecem uma camada a mais de proteção e segurança para sua aplicação.
-São utilizados para tirar a responsabilidade da entidade, dessa forma criando uma camada que se comunicará diretamente com o service no lugar da entidade. Com essa alteração se torna possível alterar o controller para criar novas colunas por exemplo mas antes deve ser criado no DTO referente a tabela uma cópia:
+São utilizados para tirar a responsabilidade da entidade, dessa forma criando uma camada que se comunicará diretamente com o service no lugar da entidade. 
+Resumindo, DTO's tem o propósito de tirar a responsabilidade do `model` e passar como resposta da API somente o necessário, sem ser preciso expor o `model` para todo mundo fazendo assim com que quem acesse, veja uma cópia do model e não o model mesmo e o mapper serve como uma mapa para realizar a ligação e dizer para o spring o que é o DTO, o que é o `model`e fazer as ligações necessárias
+Com essa alteração se torna possível alterar o controller para criar novas colunas por exemplo mas antes deve ser criado no DTO referente a tabela uma cópia:
 
 *DTO:*
 ![[Pasted image 20250714125728.png]]
