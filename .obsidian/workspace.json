@@ -41,6 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "java/Batismo de java/Nivel Intermediário/Records.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Records"
+            }
+          },
+          {
+            "id": "21bd01f7733349e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "java/Batismo de java/Spring/DTO.md",
                 "mode": "source",
                 "source": false
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Spring/DTO.md",
+                "file": "java/Batismo de java/Nivel Intermediário/Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para DTO"
+              "title": "Links inversos para Records"
             }
           },
           {
@@ -247,10 +261,23 @@
   },
   "active": "81e82a45a82a3095",
   "lastOpenFiles": [
+    "imagens/Pasted image 20250717095245.png",
+    "imagens/Pasted image 20250717095213.png",
+    "java/Batismo de java/Nivel Intermediário/Optional.md",
+    "java/Batismo de java/Nivel Intermediário/Método toString.md",
+    "java/Batismo de java/Nivel Intermediário/Generics.md",
+    "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
+    "java/Batismo de java/Nivel Intermediário/Records.md",
+    "java/Batismo de java/Spring/DTO.md",
+    "java/Batismo de java/Spring/Banco de dados/Queries do Db.md",
+    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Set.md",
+    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Array list.md",
+    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Collections.md",
+    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Linked lists.md",
+    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Stack.md",
     "imagens/Pasted image 20250714202208.png",
     "imagens/Pasted image 20250714200951.png",
     "java/Batismo de java/Spring/serialização de dados.md",
-    "java/Batismo de java/Spring/DTO.md",
     "imagens/Pasted image 20250714200353.png",
     "imagens/Pasted image 20250714200341.png",
     "imagens/Pasted image 20250714133113.png",
@@ -258,32 +285,19 @@
     "imagens/Pasted image 20250714132006.png",
     "imagens/Pasted image 20250714130449.png",
     "imagens/Pasted image 20250714125840.png",
-    "imagens/Pasted image 20250714125823.png",
-    "imagens/Pasted image 20250714125744.png",
     "java/Batismo de java/Spring/Criação de rotas.md",
     "java/Batismo de java/Spring/Criação de um projeto.md",
     "java/Batismo de java/Spring/Padrão de projeto.md",
     "java/Batismo de java/Spring/Dependências.md",
     "Git e Github/comandos.md",
     "2025-07-13.md",
-    "java/Batismo de java/Spring/Banco de dados/Queries do Db.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "README.md",
-    "java/Batismo de java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
-    "java/Batismo de java/Spring/Arquivos padrão.md",
     "Anotações Programador Pragmático",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos",
     "java/Batismo de java/Nivel Intermediário",
