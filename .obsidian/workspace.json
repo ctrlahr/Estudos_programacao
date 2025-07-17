@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Nivel Intermediário/Records.md",
+                "file": "java/Batismo de java/Spring/DTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Records"
+              "title": "Links inversos para DTO"
             }
           },
           {
@@ -259,15 +259,15 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "81e82a45a82a3095",
+  "active": "21bd01f7733349e7",
   "lastOpenFiles": [
+    "java/Batismo de java/Nivel Intermediário/Records.md",
     "imagens/Pasted image 20250717095245.png",
     "imagens/Pasted image 20250717095213.png",
     "java/Batismo de java/Nivel Intermediário/Optional.md",
     "java/Batismo de java/Nivel Intermediário/Método toString.md",
     "java/Batismo de java/Nivel Intermediário/Generics.md",
     "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
-    "java/Batismo de java/Nivel Intermediário/Records.md",
     "java/Batismo de java/Spring/DTO.md",
     "java/Batismo de java/Spring/Banco de dados/Queries do Db.md",
     "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Set.md",
@@ -284,7 +284,6 @@
     "imagens/Pasted image 20250714132328.png",
     "imagens/Pasted image 20250714132006.png",
     "imagens/Pasted image 20250714130449.png",
-    "imagens/Pasted image 20250714125840.png",
     "java/Batismo de java/Spring/Criação de rotas.md",
     "java/Batismo de java/Spring/Criação de um projeto.md",
     "java/Batismo de java/Spring/Padrão de projeto.md",

@@ -31,7 +31,7 @@ Depois, é feito o caminho inverso, deve ser mapeado do `DTO` para o `NinjaModel
 Após o processo do mapeamento é necessário trocar o que antes era `NinjaModel` por `NinjaDTO`como por exemplo no arquivo de service onde os métodos retornavam `NinjaModels`, para isso é necessário injetar a dependência do mapper no service:
 ![[Pasted image 20250714133113.png]]
 
-depois de injetada a dependência do mapper, o próximo passo é alterar as menções do `NinjaModel`:
+depois de injetada a dependência do mapper, o próximo passo é alterar as menções do `NinjaService`:
 
 *Antes:*
 ![[Pasted image 20250714200353.png]]
