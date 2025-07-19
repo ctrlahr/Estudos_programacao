@@ -10,4 +10,5 @@ Existem 8 principais tipos de Api, são elas as SOAP, REST, GRAPHQL, gRPC, WebSo
 ![[Pasted image 20250718122229.png]]
 
 *Api's REST:*
-Uma API REST é 
+Uma API REST é um tipo de API que se comunica por meio de requisições HTTP, podendo ser requisições PUT, POST, DELETE e GET.
+o usuário pede algo por uma requisição então por exemplo, os dados de um usuário específico que está no banco de dados, então é feita uma requisição GET para o banco de dados, e o banco de dados devolve algo.
