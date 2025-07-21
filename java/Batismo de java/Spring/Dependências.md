@@ -68,7 +68,7 @@ Para trabalhar com bancos de dados é necessário baixar a dependência relativa
 ## Flyway
 O `flyway` é utilizado para se ter um sistema de versionamento para o banco de dados, dessa forma tornando mais fácil algumas operações, funciona basicamente como um git mas para banco de dados.
 
-Para usar o versionamento de banco de dados é necessário criar uma pasta para guardar essas alterações que forem feitas, ela deve ser criada na pasta de `resources` e dentro da pasta resources é legal que exista também uma outra pasta chamada migrations e dentro dessa pasta terão as versões do banco de dados.
+Para usar o versionamento de banco de dados é necessário criar uma pasta para guardar essas alterações que forem feitas, ela deve ser criada na pasta de `resources` e dentro da pasta resources é legal que exista também uma outra pasta chamada `migrations` e dentro dessa pasta terão as versões do banco de dados.
 Cada arquivo de versão tem uma nomenclatura especifica, eles sempre começam com um "V" e depois o número da versão seguido de dois underlines, o nome da versão e a extensão `.sql`: 
 ![[Pasted image 20250705134516.png]]
 
