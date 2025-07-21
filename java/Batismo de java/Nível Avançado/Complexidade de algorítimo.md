@@ -1,7 +1,7 @@
 
 
 ## BigO
-No java Big O é utilizado para descrever a eficiência de um algorítimo, especificamente como o tempo de execução ou o uso de memória crescem à medida que o tamanho da entrada aumenta.
+No Java Big O é utilizado para descrever a eficiência de um algorítimo, especificamente como o tempo de execução ou o uso de memória crescem à medida que o tamanho da entrada aumenta.
 É uma notação que expressa a complexidade de uma algorítimo em termos de crescimento e descreve o comportamento do algorítimo conforme a entrada se torna cada vez maior.
 Entre as notações de Big O temos, complexidade constante representada por `O(1)`, complexidade logarítmica representada por `O(log n)`.
 
