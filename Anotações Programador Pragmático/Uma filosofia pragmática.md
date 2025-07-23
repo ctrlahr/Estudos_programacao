@@ -22,3 +22,4 @@ Tente se ver livre de desculpas esfarrapadas, se necessário deve-se conversar c
 
 
 ## Entropia de software
+
