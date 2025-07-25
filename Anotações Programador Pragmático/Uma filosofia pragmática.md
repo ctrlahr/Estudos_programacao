@@ -42,3 +42,5 @@ Por um outro lado, por parte dos aldeões é uma história de uma ilusão lenta 
 
 Existe uma teoria que se um sapo for jogado em água gelada e a mesma for esquentada gradualmente o sapo irá ferver sem nem perceber. Olhando isso pelo lado técnico, acaba se diferenciando da teoria das janelas quebradas, nas janelas quebradas os erros estavam sendo vistos mas negligenciados, nesse caso o erro apenas não é percebido.
 A ideia é não ser como o sapo. Não se esquecer de uma cenário mais abrangente e verificar constantemente o que está acontecendo ao redor e não apenas o que está sendo feito.
+
+

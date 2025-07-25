@@ -3,14 +3,17 @@ Dentro da stream existem inúmeros métodos que facilitam operações que muitas
 
 Para usar as streams é necessário usar o `.stream()` para depois passar a operação desejada.
 
+Operações em streams podem ser intermediárias ou finais:
+
+## Operações intermediárias
+As operações intermediárias são aquelas que retornam um novo stream para que possa ser encadeado. Então no exemplo do método `sorted()` é retornado uma nova stream mas dessa vez uma stream organizada conforme foi pedido e posteriormente, a mesma deve ser retornada por um método final como o `forEach()`
+
+
+*Operações intermediárias:*
 ### `filter()`
 O método filter é utilizado para filtrar algo de uma lista, podendo ser para no exemplo de ninjas mostrar apenas os ninjas que são da aldeia da folha. Nesse caso é necessário utilizar o método filter e passar como parâmetro do método um predicate que vai indicar exatamente o que deve ser filtrado:
 ![[Pasted image 20250724123212.png]]
 
-
-### `forEach()`
-O método `ForEach()`é utilizado geralmente para printar todos os elementos de uma lista mas seguindo o exemplo da lista de ninjas no mesmo código em que foi feita a filtragem para mostrar apenas os ninjas que são de konoha, aquele código não retornaria nada, por que nenhuma operação de retorno está sendo executada, é ai que entra o `forEach`, o qual foi utilizado para iterar sobre cada item da lista filtrada e printar cada um apenas com uma linha de código sem precisar criar todo um loop para isso:
-![[Pasted image 20250724123251.png]]
 
 
 ### `Sorted()`
@@ -25,3 +28,34 @@ No caso do método sorted sem o comparator ele pega a lista passada não importa
 *Comparando Strings:*
 ![[Pasted image 20250724132846.png]]
 - Nesse caso a ordenação é feita por ordem alfabética e para isso como `String` não apresenta um método compare é necessário comparar com o método `compareTo`, dessa forma, passando o nome do primeiro ninja e utilizando o método para comparar com o nome do segundo ninja, tendo apenas isso de diferença com a ordenação de números.
+
+
+### `Map()`
+Utilizado para transformar cada elemento da stream aplicando uma função a ele, podendo ser uma função de multiplicação para multiplicar cada valor de uma lista de inteiros por 2 por exemplo ou até mesmo para iterar sobre uma lista de nomes e mostrar cada um:
+![[Pasted image 20250725131003.png]]
+
+Tem uma diferença entre usar a seta de lambda expression(`->` ) para usar o method reference(`::`)
+A seta dos métodos lambda é utilizada em casos que o método não existe, em casos que por exemplo seja necessário criar um método rápido para somar números entre si, nesse caso, será necessário o uso de expressões lambda:
+![[Pasted image 20250725132559.png]]
+
+Já o method reference é utilizado quando o método que deve ser chamado já existe seja em outra classe ou até mesmo no java:
+![[Pasted image 20250725132944.png]]
+- Nesse exemplo foi necessário utilizar o map para converter primeiramente `Ninja` para string para que a operação `toUpperCase` seja utilizada.
+
+
+
+
+
+## Operações terminais
+Operações terminais são aquelas em que se retorna um resultado que não é uma nova stream, então por exemplo, o método `forEach()` é utilizado para retornar um valor final, nesse caso, retornar algo para cada elemento da stream.
+
+
+*Operações terminais:*
+### `forEach()`
+O método `ForEach()`é utilizado geralmente para printar todos os elementos de uma lista mas seguindo o exemplo da lista de ninjas no mesmo código em que foi feita a filtragem para mostrar apenas os ninjas que são de konoha, aquele código não retornaria nada, por que nenhuma operação de retorno está sendo executada, é ai que entra o `forEach`, o qual foi utilizado para iterar sobre cada item da lista filtrada e printar cada um apenas com uma linha de código sem precisar criar todo um loop para isso:
+![[Pasted image 20250724123251.png]]
+
+
+### `Max()`
+O método max encontra o maior elemento da stream, é uma operação terminal que retorna um Optional, isso significa que ele também precisa de algo caso não tenha nada
+
