@@ -31,3 +31,14 @@ Não deixe "janelas quebradas"(Projetos insatisfatórios, decisões erradas ou c
 > [!NOTE]
 > Até mesmo sistemas bonitos e elegantes podem se deteriorar rapidamente quando "janelas quebradas" não são concertadas. A negligência acelera cada vez mais a deterioração de um software.
 
+
+
+## Sopa de pedras e sapos cozidos
+
+No conto das sopa de pedras(https://en-m-wikipedia-org.translate.goog/wiki/Stone_Soup?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=wa) algumas lições importantes podem ser retiradas. O soldado age como um catalizador, reunindo a vila para produzir algo que separados eles nunca iriam fazer onde cada um dos moradores saí ganhando.
+Seja um catalizador da mudança.
+
+Por um outro lado, por parte dos aldeões é uma história de uma ilusão lenta e gradual, sobre dar muita atenção a algo e acabar esquecendo de outras coisas, no caso os aldeões focaram tanto nas pedras que esqueceram do resto do mundo. 
+
+Existe uma teoria que se um sapo for jogado em água gelada e a mesma for esquentada gradualmente o sapo irá ferver sem nem perceber. Olhando isso pelo lado técnico, acaba se diferenciando da teoria das janelas quebradas, nas janelas quebradas os erros estavam sendo vistos mas negligenciados, nesse caso o erro apenas não é percebido.
+A ideia é não ser como o sapo. Não se esquecer de uma cenário mais abrangente e verificar constantemente o que está acontecendo ao redor e não apenas o que está sendo feito.
