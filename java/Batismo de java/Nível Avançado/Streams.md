@@ -61,4 +61,14 @@ O método max encontra o maior elemento da stream, é uma operação terminal qu
 Para comprar algo como por exemplo comprar e ver quem é o ninja mais velho de uma lista de ninjas é necessário criar um comparador e esse comparador é criado assim; `Comparator.comparing()`, é como dizer "compare esses ninjas baseado nisso"
 Passando como parâmetro o que vai ser utilizado para comparar.
 ![[Pasted image 20250725134613.png]]
-- Nesse exemplo
+- Nesse exemplo está sendo utilizado o comparator para comparar a idade dos ninjas passando o tipo de dado, nesse caso, o tipo de dado é a classe `Ninja` e passando o método, nesse exemplo, o método para obter a idade.
+- Depois somente é utilizado do `orElse` para retornar null.
+- Já fora da stream é necessário retornar já que não tem um método de retorno nessa stream, então é printado a stream.
+
+
+
+### `Collect()`
+O método collect é utilizado dentro das streams para poder coletar o que foi feito na camada intermediária e transformar em um elemento do tipo collection. Ele funciona com base no `Collector` passado, então se o collector passado informar que a stream deve ser um set ela será um set, a mesma coisa para maps, lists e entre outros:
+![[Pasted image 20250726121710.png]]
+- Nesse exemplo está sendo utilizado uma stream para transformar a lista de Model para DTO então está com o `map()` usando o método map do mapper para justamente fazer essa conversão 
+- Com o collect é transformado toda a stream em uma lista para ser retornada.
