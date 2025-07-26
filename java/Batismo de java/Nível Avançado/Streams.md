@@ -57,5 +57,8 @@ O método `ForEach()`é utilizado geralmente para printar todos os elementos de 
 
 
 ### `Max()`
-O método max encontra o maior elemento da stream, é uma operação terminal que retorna um Optional, isso significa que ele também precisa de algo caso não tenha nada
-
+O método max encontra o maior elemento da stream, é uma operação terminal que retorna um Optional, isso significa que ele também precisa de algo caso não tenha nada.
+Para comprar algo como por exemplo comprar e ver quem é o ninja mais velho de uma lista de ninjas é necessário criar um comparador e esse comparador é criado assim; `Comparator.comparing()`, é como dizer "compare esses ninjas baseado nisso"
+Passando como parâmetro o que vai ser utilizado para comparar.
+![[Pasted image 20250725134613.png]]
+- Nesse exemplo

@@ -44,3 +44,18 @@ Existe uma teoria que se um sapo for jogado em água gelada e a mesma for esquen
 A ideia é não ser como o sapo. Não se esquecer de uma cenário mais abrangente e verificar constantemente o que está acontecendo ao redor e não apenas o que está sendo feito.
 
 
+
+
+## Software satisfatório
+Você pode se disciplinar para criar um software que seja satisfatório para os usuários, para quem fizer futuras manutenções e até mesmo para própria satisfação pessoal.
+Normalmente cria-se softwares para outras pessoas e é pedido a elas os requisitos mas com que frequência é perguntado ao cliente o nível de satisfação que o cliente deseja que o software tenha.
+Criar um software satisfatório é fazer os requisitos necessários do sistema mas também adicionar recursos que melhorariam a experiência do usuário, melhorar o desempenho, etc.
+É necessário saber quando parar, saber quando parar de adicionar "melhorias da experiência do usuário", ele pode não ter ficado perfeito, mas ele nunca poderia ter ficado.
+
+> [!Aprimoramento de software]
+> Não estrague um programa que funciona perfeitamente enfeitando e aprimorando-o excessivamente
+
+
+
+
+## Sua carteira de conhecimentos
