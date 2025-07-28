@@ -77,3 +77,7 @@ E posteriormente, deve ser escrito nesse arquivo a alteração que vai acontecer
 Dessa forma, toda e qualquer alteração que seria feita feita direto no painel do banco de dados agora pode ser feita na IDE.
 
 Além disso, também é necessário dar a autorização de execução, nesse caso o flyway precisa ser ativado, deve ser passado onde ele vai trabalhar e também é necessário falar para o flyway que se já existir algo no banco de dados a migration deve ser feita para o que já existe, então se algo já existe, a migration deve ser feita para a tabela já existente e isso tudo no `aplications.properties` que cuida das permissões e configurações do projeto:
+
+
+
+## Spring security
