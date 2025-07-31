@@ -41,3 +41,5 @@ depois de injetada a dependência do mapper, o próximo passo é alterar as men�
 - No código é convertido o objeto do tipo `NinjaDTO` para um `NinjaModel` para que as operações passadas no `NinjaModel` como definir automaticamente um id funcionem corretamente.
 - Depois, é utilizado o método save para salvar no banco de dados passando como parâmetro o objeto do tipo `NinjaModel`.
 - E por fim é convertido novamente para um DTO e retornado para o usuário.
+
+
