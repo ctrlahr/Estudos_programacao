@@ -4,4 +4,4 @@ Seu intuito é evitar erros `null pointer exeption` já que o valor será opcion
 Dentro do optional existem alguns métodos como o `get`, `orElse`, etc. 
 
 
-
+ 
