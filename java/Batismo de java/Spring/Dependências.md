@@ -9,6 +9,7 @@ O JPA também oferece diversos métodos que permitem com que o processo de [[ser
 ##### `findAll()`
 O método `findAll` retorna todas as informações de uma tabela específica.
 
+
 ##### `findById()`
 O `findById` é utilizado para acessar algo especificando o id, ele é utilizado em conjunto com o [[Optional]] 
 
