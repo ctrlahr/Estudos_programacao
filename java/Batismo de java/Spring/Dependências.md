@@ -1,6 +1,7 @@
 ## Spring web
 
 
+
 ## Spring Data JPA
 Sua sigla significa "java persistence API", a spring data JPA é uma dependência que permite com que o dev trabalhe com banco de dados SQL no projeto spring.
 É uma abstração(Maneira de simplificar um processo) que permite trabalhar com banco de dados. 
