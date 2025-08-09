@@ -7,6 +7,7 @@ Sua sigla significa "java persistence API", a spring data JPA é uma dependênci
 É uma abstração(Maneira de simplificar um processo) que permite trabalhar com banco de dados. 
 O JPA também oferece diversos métodos que permitem com que o processo de [[serialização de dados]] se torne muito mais fácil, permitindo a realização de queries por meio desses métodos oferecidos.
 
+
 ##### `findAll()`
 O método `findAll` retorna todas as informações de uma tabela específica.
 
