@@ -6,3 +6,5 @@ no service eu fiz igual a forma para retornar algo por um id específico, isso f
 ![[Pasted image 20250730094654.png]]
 Depois, primeiro, pega o id da mesa que o usuário quer, depois é retornado primeiro o método map do [[Optional||optional]]~={pink}(Estava confundindo bastante com o método map das streams)=~ que está convertendo o `mesa` de model para DTO.
 Depois ainda nos métodos do [[Optional||optional]] é mais uma vez utilizado o map, dessa vez com o intuito de pegar especificamente o status da mesa desejada. Por fim apenas é utilizado um `orElse` para retornar null caso nada exista.
+
+
