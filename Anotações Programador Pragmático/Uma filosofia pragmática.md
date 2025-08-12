@@ -59,5 +59,24 @@ Criar um software satisfatório é fazer os requisitos necessários do sistema m
 
 
 ## Sua carteira de conhecimentos
+O gerenciamento de uma carteira de conhecimentos é bem semelhante ao gerenciamento de uma carteira de investimentos. 
+1. Investidores investem regularmente como um hábito
+2. A diversificação é a chave para o sucesso a longo prazo
+3. Investidores inteligentes tem uma carteira equilibrada com investimentos conservadores e investimentos de alto risco e remuneração
+4. Investidores tentam comprar barato e vender caro para obter o máximo em retorno
+5. As carteiras devem ser reexaminadas e reestruturadas periodicamente
 
+Para ser bem sucedido sua carteira de conhecimentos deve ser gerenciada utilizando as mesmas diretrizes acima.
+Invista regularmente na carteira de conhecimentos
+
+*Construindo sua carreira:*
+- Invista regularmente - Assim como investidores investem regularmente em sua carteira de investimentos, também se faz necessário que seja investido regularmente na carteira de conhecimentos. Adicionando sempre algo, mesmo que seja pouco.
+
+- Diversifique - Quanto mais coisas diferentes se souber mais valor terá. Como algo básico, deve ter conhecimento dos prós e contras de determinada tecnologia. Quanto mais tecnologias uma pessoa souber, melhor ela conseguirá se adaptar a mudança da área.
+
+- Gerencie o risco - A tecnologia se estende por um padrão que vai do arriscado com grande retorno para o de baixo risco e baixo retorno. Nunca é uma boa ideia investir apenas em ações de alto risco que podem cair repentinamente, da mesma forma que também não é uma boa ideia investir seu dinheiro conservadoramente, deve existir um meio-termo.
+
+- Compre barato venda caro - Aprender uma linguagem emergente, antes de sua popularização pode ser fortemente recompensador Imagine quem decidiu aprender java antes de ser uma linguagem popular, foi como investir em bitcoin em 2010.
+
+- Reexamine e reestruture - Por a área de programação ser extremamente dinâmica, talvez uma linguagem que alguém começou a aprender há um mês já esteja ultrapassada, as vezes é necessário rever uma tecnologia de banco de dados não usada há um tempo, ou até mesmo uma pessoa esteja apta para uma oferta de trabalho se aprender outra linguagem.
 
