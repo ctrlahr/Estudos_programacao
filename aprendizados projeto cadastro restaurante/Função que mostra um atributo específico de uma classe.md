@@ -8,3 +8,5 @@ Depois, primeiro, pega o id da mesa que o usuário quer, depois é retornado pri
 Depois ainda nos métodos do [[Optional||optional]] é mais uma vez utilizado o map, dessa vez com o intuito de pegar especificamente o status da mesa desejada. Por fim apenas é utilizado um `orElse` para retornar null caso nada exista.
 
 
+
+
