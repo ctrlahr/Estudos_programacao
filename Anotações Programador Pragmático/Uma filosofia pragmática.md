@@ -80,3 +80,29 @@ Invista regularmente na carteira de conhecimentos
 
 - Reexamine e reestruture - Por a área de programação ser extremamente dinâmica, talvez uma linguagem que alguém começou a aprender há um mês já esteja ultrapassada, as vezes é necessário rever uma tecnologia de banco de dados não usada há um tempo, ou até mesmo uma pessoa esteja apta para uma oferta de trabalho se aprender outra linguagem.
 
+*Objetivos:*
+Qual a melhor maneira de adquirir o capital intelectual com o qual construirá a carteira de conhecimentos? Abaixo estão algumas sugestões.
+
+- Aprenda pelo menos uma nova linguagem todo ano - Diferentes linguagens resolvem os mesmos problemas de maneira diferente, ao conhecer diferentes formas de se resolver um problema isso ajudará a expandir o raciocínio, evitando a estagnação.
+
+- Leia um livro técnico a cada trimestre - Uma vez que adquirir o hábito da leitura, esteja sempre que possível lendo um livro, quando terminar um passe para o próximo, assim, sua carteira de conhecimentos estará em constante crescimento. Sempre procure também estudar a fundo a tecnologia que está sendo utilizada em seu projeto ou trabalho, e quando a dominar, passe para uma próxima que lhe interesse ou que você veja perspectiva de crescimento no futuro.
+
+- Leia também livros não técnicos - É importante lembrar que você está constantemente lidando com pessoas então é necessário também trabalhar o lado não técnico da equação.
+
+- Tenha aulas - Procure cursos interessantes no colégio, digitalmente, na universidade, em eventos, etc.
+
+- Participe de grupos de usuários locais - Faça networking, vá em eventos de programação, busque sempre estar em contato com pessoas da área e até mesmo fora dela, pessoas diferentes tem conhecimentos diferentes para agregar em sua vida.
+
+- Experimente ambientes novos - Busque sempre testar novas coisas, se sempre usou windows, use um pouco de uma distribuição linux, se sempre ficou em uma IDE, teste outra.
+
+- Mantenha-se informado - Se inscreva em uma newsletter de programação, esteja sempre vendo as noticias atuais, não apenas de programação, busque saber o que está acontecendo no mundo no geral.
+
+- Mantenha-se conectado - Sempre busque as experiências das pessoas, se quer saber se certa linguagem é boa, busque pela experiência de quem já utilizou ela.
+
+É sempre importante continuar investindo em sua carteira de conhecimentos, uma vez que já estiver confortável com determinada linguagem aprenda outra. Não se importe se essa tecnologia será utilizada por você, ou se irá coloca-las no currículo, todo o processo de aprendizado te tornará apto a resolver problemas de formas diferentes, estimulará seu raciocínio.
+
+*Oportunidade de aprendizado:*
+Se por exemplo alguém te perguntar algo que você não saiba, admita que não sabe mas não pare por ai, tome isso como um desafio e aprenda sobre aquilo que antes não era de seu conhecimento. Pergunte para alguém, pesquise, faça de tudo possível mas aprenda e depois se quiser retorne a pessoa e diga o que aprendeu.
+
+*Pensamento crítico:*
+É necessário pensar criticamente sobre o que você lê e assiste, sua carteira de conhecimentos deve ser exato e imparcial, sem influência de marca, propagandas, etc
