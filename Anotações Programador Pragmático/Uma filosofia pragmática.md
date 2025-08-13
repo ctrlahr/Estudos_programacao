@@ -106,3 +106,7 @@ Se por exemplo alguém te perguntar algo que você não saiba, admita que não s
 
 *Pensamento crítico:*
 É necessário pensar criticamente sobre o que você lê e assiste, sua carteira de conhecimentos deve ser exato e imparcial, sem influência de marca, propagandas, etc
+
+
+
+## Comunique-se 
