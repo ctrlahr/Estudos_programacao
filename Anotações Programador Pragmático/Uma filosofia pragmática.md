@@ -113,3 +113,7 @@ Se por exemplo alguém te perguntar algo que você não saiba, admita que não s
 Ser incrível programando, ter um bom raciocínio, ser pragmático não adianta nada se você não souber se comunicar com os outros. Como desenvolvedores grande parte do dia é  gasto se comunicando, seja em documentações, reuniões ou até mesmo escrevendo código para se comunicar com a própria máquina, portanto, devemos fazer isso bem.
 
 *Saiba o que você quer dizer:*
+Planeje o que você quer dizer, faça um rascunho então pergunte a si mesmo, "Isso representa o que eu tô tentando dizer?" .
+
+*Conheça seu público alvo:*
+Para de comunicar você precisa conhecer as necessidades, interesses e capacidades do seu público alvo.
