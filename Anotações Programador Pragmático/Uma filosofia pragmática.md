@@ -117,3 +117,23 @@ Planeje o que você quer dizer, faça um rascunho então pergunte a si mesmo, "I
 
 *Conheça seu público alvo:*
 Para de comunicar você precisa conhecer as necessidades, interesses e capacidades do seu público alvo.
+
+*Escolha seu momento:*
+Imagine que são seis da manhã, após uma semana em que os auditores fizeram uma visita, o filho mais novo do seu chefe está no hospital, esse provavelmente não é um bom momento para pedir a ele uma atualização na memória do seu PC.
+Torne o que você está falando relevante quanto ao momento.
+
+*Escolha um estilo:*
+Adapte o estilo da sua fala para atender um público alvo específico, algumas pessoas preferem um resumo formal com apenas fatos já outras gostam de uma longa e variada conversa antes do assunto ser abordado, quando o assunto são documentos, algumas preferem receber grandes relatórios enquanto outras preferem um simples memorando ou email.
+Se alguém lhe disser que precisa apenas de um parágrafo com a descrição de algo e você não visualizar alguma forma de fazer isso a não sem em várias páginas, diga isso.
+
+*Seja um ouvinte:*
+Se você quiser que as pessoas te escutem, escute-as. Mesmo em uma situações onde já se tem todas as informações ou no meio de uma reunião.
+Encoraja as pessoas a falar fazendo perguntas ou as façam repetir resumidamente o que disseram.
+
+*Dê retorno as pessoas:*
+Na correria do dia a dia é fácil esquecer de responder alguém e isso muitas vezes é compreendido como falta de educação então responda sempre emails, mesmo se a resposta seja um simples "Respondo depois", isso já é alguma coisa, manter as pessoas informadas faz com que elas não se importem tanto com o deslize ocasional e não se sintam esquecidas.
+
+> [!Comunique-se]
+> Quanto mais eficaz a comunicação, mais influente você será
+
+
