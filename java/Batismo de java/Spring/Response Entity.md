@@ -5,3 +5,6 @@ Esse é o uso do response entity apenas para retornar uma mensagem para o usuár
 ![[Pasted image 20250811102117.png]]
 - Nesse exemplo é necessário realizar uma verificação relacionada a se o id existe no sistema então é verificado se o valor retornado pela função `listarNinjaPorId` é null e se for é retornado um erro personalizado.
 
+
+
+
