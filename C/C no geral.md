@@ -1,5 +1,8 @@
 C foi uma linguagem que foi criada com o intuito de facilitar a comunicação com o processador pois a mais utilizada na época era o assembly e cada processador tinha uma versão diferente de assembly, com divergências entre elas.
 
+
+
+
 C foi uma das primeiras linguagens de alto nível.
 
 A linguagem C é muito utilizada em sistemas operacionais, sistemas desktop, sistemas embarcados, telecomunicações e até mesmo alguns sistemas web no backend usufruindo do web assembly.
