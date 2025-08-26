@@ -48,3 +48,5 @@ Um algorítimo de complexidade quadrática é por exemplo algorítimos com neste
 Um bom exemplo é um for, a maioria dos loops for no java tem uma complexidade `O(n)` ou linear, por que o tempo de execução do loop aumenta proporcionalmente ao número de elementos que ele processa, então se uma lista precisa iterar sobre 2000 elementos o valor vai ser um mas se ela precisar iterar sobre 1 000 000 de elementos, ela terá outro tempo de execução, demorando mais para realizar toda a iteração.
 
 O ideal é sempre buscar não ter algorítimos mas quando isso não se torna possível é bom sempre buscar algorítimos de complexidade constante ou `O(1)` por que eles são constantes então não importa a alteração que for feita, não vai mudar seu tempo de execução.
+
+
