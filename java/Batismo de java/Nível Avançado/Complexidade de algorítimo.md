@@ -6,6 +6,9 @@ No Java Big O é utilizado para descrever a eficiência de um algorítimo, medin
 Entre as notações de Big O temos, complexidade constante representada por `O(1)`, complexidade logarítmica representada por `O(log n)`.
 Big O é principalmente uma medida de escalabilidade dos algorítimos servindo para medir a escalabilidade temporal e espacial dos algorítimos, sendo quase que uma forma de perguntar para o algorítimo se ele é escalável, se conforme a aplicação crescer ela vai se manter performática.
 
+
+
+
 ### Escalabilidade espacial
 
 
