@@ -20,6 +20,7 @@ O método filter é utilizado para filtrar algo de uma lista, podendo ser para n
 O método sorted serve para ordenar a lista da forma desejada. Existem dois métodos sorted, um que precisa de um comparator e outro que não precisa.
 No caso do método sorted sem o comparator ele pega a lista passada não importando seu tamanho e ordena por comparação, comparando por exemplo os dois primeiros ninjas da lista e vendo qual ninjas tem a primeira letra do nome que vem primeiro no alfabeto, e a mesma coisa pra os outros elementos da lista e é a mesma coisa para listas de números, o que muda é que ao invés de comparar a letra ele compara qual número vem primeiro.
 
+
 *Comparando números inteiros:*
 ![[Pasted image 20250724130050.png]]
 - Nesse caso a ordenação é feita por idade, então é comparado a idade dos ninjas e a lista é ordenada de forma crescente.
