@@ -44,9 +44,6 @@ Já o method reference é utilizado quando o método que deve ser chamado já ex
 - Nesse exemplo foi necessário utilizar o map para converter primeiramente `Ninja` para string para que a operação `toUpperCase` seja utilizada.
 
 
-
-
-
 ## Operações terminais
 Operações terminais são aquelas em que se retorna um resultado que não é uma nova stream, então por exemplo, o método `forEach()` é utilizado para retornar um valor final, nesse caso, retornar algo para cada elemento da stream.
 
