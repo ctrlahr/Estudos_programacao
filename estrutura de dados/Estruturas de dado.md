@@ -18,6 +18,7 @@ stack.pop()
 - são adicionados dados a lista, sendo eles, A, B e C.
 - depois é removido o ultimo item adicionado a esta lista, nesse caso, o "C"
 
+
 Quando queremos um loop para iterar sobre nossa lista, se for feito da maneira tradicional, os dados não virão na ordem que é desejada para uma estrutura de pilha, eles virão da base para o topo mas o que é desejado é ao contrário, do topo para a base, para isso podemos utilizar do slice(fatiamento), onde não escrevemos o inicio e o fim de até onde queremos iterar sobre a ista, dizendo assim que queremos percorrer ela por inteira, depois adicionamos o passo, e colocamos esse passo negativo, indicando que queremos que a iteração aconteça de trás para frente ao invés do convencional:
 ```
 for item in stack[::-1]:
