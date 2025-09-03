@@ -1,5 +1,6 @@
 ## Stack(Pilha)
 A estrutura pilha segue um conceito chamado "LIFO", que significa "last in, first out", e isso, por que o ultimo dado que for adicionado ao topo da estrutura da pilha será o primeiro a sair. É como uma pilha de pratos. 
+
 #### Como aplicar a pilha em python
 Em python especificamente a estrutura de pilha pode ser aplicada nas listas e podemos utilizar do método `append` para adicionar novos itens ao topo de nossa pilha e do método `pop` para removermos itens do topo da nossa lista:
 ```
