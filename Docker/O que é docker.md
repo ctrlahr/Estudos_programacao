@@ -6,3 +6,5 @@ Cada container enxerga e tem acesso apenas aquilo que diz respeito a aplicação
 
 Um container necessita de uma parte da memória e dá CPU para funcionar pois será necessário algumas coisas da própria máquina onde a aplicação roda corretamente, então variáveis de precisam estar no container, interface de rede, etc, é realmente como se fosse o sistema operacional mas separado das outras aplicações.
 
+Containers apenas continuam sendo executados se algum processo dentro dele ainda estiver em ativa. Caso contrário são fechados imediatamente.
+
