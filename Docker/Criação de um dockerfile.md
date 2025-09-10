@@ -13,5 +13,4 @@ Isso é feito com o comando `COPY`:
 
 Depois, quando estiver no diretório app vai ser necessário realizar a instalação das dependências como maven e o build da aplicação, isso será feito por meio de um comando do próprio maven para fazer a instalação das dependências e gerar o build da aplicação, esse comando é o `RUN mvn clean install`:
 ![[Pasted image 20250908092924.png]]
-
 Também será copiado o arquivo `.jar` de build que foi gerado e copiar para `/app/jar`:
