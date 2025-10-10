@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/API/O que é uma API.md",
+                "file": "java/Batismo de java/Estrutura de dados/Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que é uma API"
+              "title": "Map"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
+                "file": "java/Inner class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelagem do banco de dados no spring"
+              "title": "Inner class"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Complexidade de algorítimo"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -118,7 +117,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Graph view"
             }
           }
         ]
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
+                "file": "java/Batismo de java/Estrutura de dados/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Complexidade de algorítimo"
+              "title": "Backlinks for Map"
             }
           },
           {
@@ -222,55 +221,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir importador Markdown": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false
     }
   },
-  "active": "9e923665028101d2",
+  "active": "513bd78bf3846973",
   "lastOpenFiles": [
-    "imagens/Pasted image 20250721103857.png",
-    "java/Batismo de java/Spring/Dependências.md",
+    "java/Batismo de java/Estrutura de dados/Set.md",
+    "java/Batismo de java/Estrutura de dados/Map.md",
+    "java/Batismo de java/Estrutura de dados/Stack.md",
+    "java/Batismo de java/Estrutura de dados/Queue.md",
+    "java/Batismo de java/Estrutura de dados/Linked lists.md",
+    "java/Batismo de java/Estrutura de dados/Collections.md",
+    "java/Batismo de java/Estrutura de dados/Array list.md",
+    "java/Batismo de java/Nivel Intermediário/Generics.md",
+    "java/Batismo de java/Nivel Intermediário/Método toString.md",
+    "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
+    "java/Batismo de java/Nivel Intermediário/Records.md",
+    "java/Batismo de java/Nivel Intermediário/Optional.md",
+    "java/Batismo de java/Nível Avançado/Escopo estático e variáveis globais.md",
+    "java/Batismo de java/Nível Avançado/Expressões lambda.md",
+    "java/Batismo de java/Nível Avançado/Streams.md",
+    "java/Batismo de java/Nível Avançado/Tempo de compilação X Tempo de execução.md",
     "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
-    "java/Batismo de java/Spring/Criação de um projeto.md",
-    "java/Batismo de java/Spring/Padrão de projeto.md",
-    "java/Batismo de java/Spring/Arquivos padrão.md",
-    "java/Batismo de java/Spring/Banco de dados/Queries do Db.md",
-    "java/Batismo de java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
-    "java/Batismo de java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
-    "java/Batismo de java/Spring/DTO.md",
-    "aprendizados projeto cadastro restaurante/Conexão do postgres com o DBeaver.md",
-    "imagens/Pasted image 20250720111506.png",
-    "java/Batismo de java/Spring/serialização de dados.md",
-    "java/Batismo de java/Spring/Criação de rotas.md",
     "Backend/API/O que é uma API.md",
-    "aprendizados projeto cadastro restaurante/Explicação e projeto.md",
+    "java/Inner class.md",
+    "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
+    "imagens/Pasted image 20250721103857.png",
+    "java/Spring/Dependências.md",
+    "java/Spring/Criação de um projeto.md",
+    "java/Spring/Padrão de projeto.md",
+    "java/Spring/Arquivos padrão.md",
+    "java/Spring/Banco de dados/Queries do Db.md",
+    "java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
+    "imagens/Pasted image 20250720111506.png",
     "aprendizados projeto cadastro restaurante",
     "imagens/Pasted image 20250718122229.png",
     "Backend/API",
-    "Git e Github/comandos.md",
-    "java/Batismo de java/Nível Avançado/Expressões lambda.md",
-    "java/Batismo de java/Nivel Intermediário/Records.md",
     "imagens/Pasted image 20250717095245.png",
     "imagens/Pasted image 20250717095213.png",
-    "java/Batismo de java/Nivel Intermediário/Optional.md",
-    "java/Batismo de java/Nivel Intermediário/Método toString.md",
-    "java/Batismo de java/Nivel Intermediário/Generics.md",
-    "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
-    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Set.md",
-    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Array list.md",
-    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Collections.md",
-    "java/Batismo de java/Nivel Intermediário/Estrutura de dados/Linked lists.md",
     "imagens/Pasted image 20250714202208.png",
     "imagens/Pasted image 20250714200951.png",
     "imagens/Pasted image 20250714200353.png",
     "imagens/Pasted image 20250714200341.png",
     "imagens/Pasted image 20250714133113.png",
-    "imagens/Pasted image 20250714132328.png",
     "copilot-custom-prompts",
     "Anotações Programador Pragmático",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos",

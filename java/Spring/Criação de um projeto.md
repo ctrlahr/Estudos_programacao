@@ -17,7 +17,7 @@ Para criar um projeto com o intellij idea free é preciso abrir um site da comun
 
 ## Processo padrão de criação de um projeto
 1. Criação do projeto no geral
-2. Definição e separação dos arquivos do projeto de acordo com um [[padrão de projeto]].
+2. Definição e separação dos arquivos do projeto de acordo com um [[Padrão de projeto]].
 3. Criação dos primeiros modelos.
 4. Criação do arquivo controller para criação da primeira [[Criação de rotas|| rota]] e das rotas seguintes.
 5. [[Transformar classes em entidades de um banco de dados|| Transformação de classes em entidades]] de um banco de dados.

@@ -2,5 +2,6 @@
   "newFileLocation": "root",
   "newFileFolderPath": "imagens",
   "autoPairBrackets": true,
-  "attachmentFolderPath": "imagens"
+  "attachmentFolderPath": "imagens",
+  "alwaysUpdateLinks": true
 }
