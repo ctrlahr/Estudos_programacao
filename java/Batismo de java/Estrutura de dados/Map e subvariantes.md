@@ -6,15 +6,31 @@ O map é basicamente o dicionário da maioria das linguagens.
 Anteriormente existia a estrutura dictionary mas ela foi substituída pelo map.
 
 #### Principais métodos Map
-`put()` - Adiciona um par chave-valor
+`put()` - Adiciona um par chave-valor.
 
-`putall()` - Adiciona todos os pares de outro map
+`putall()` - Adiciona todos os pares de outro map.
 
-`get()` - Retorna valor da chave ou null se não existir
+`get()` - Retorna valor da chave ou null se não existir.
 
-`remove()` - remove o par pela chave
+`remove()` - remove o par pela chave.
 
-`size()` - Retorna a quantidade de números de pares chave-valor, ou seja, a quantidade de elementos
+`size()` - Retorna a quantidade de números de pares chave-valor, ou seja, a quantidade de elementos.
+
+`containsKey()` - Retorna se a chave informada existe no map.
+
+`EntrySet()` - transforma um map em um set facilitando alguns processos como a iteração.
+
+*Antes do EntrySet:*
+![[Pasted image 20251010105548.png]]
+
+*Depois do EntrySet:*
+![[Pasted image 20251010105558.png]]
+
+
+### Iteração sobre um map
+Para iterar sobre um map é necessário de um for, dentro do for criar um map e transforma-lo em um set por meio do método `EntrySet`, depois printar por meio do set criado:
+![[Pasted image 20251010110127.png]]
+
 
 
 
