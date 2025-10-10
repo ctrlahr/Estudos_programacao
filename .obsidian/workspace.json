@@ -13,40 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Map.md",
+                "file": "java/Batismo de java/Estrutura de dados/Map e subvariantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map"
+              "title": "Map e subvariantes"
             }
           },
           {
-            "id": "7b54d2f379c9d48f",
+            "id": "7113212b6196a475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Inner class.md",
+                "file": "java/Batismo de java/Estrutura de dados/Set e subvariantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inner class"
-            }
-          },
-          {
-            "id": "9e923665028101d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complexidade de algorítimo"
+              "title": "Set e subvariantes"
             }
           }
         ]
@@ -141,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Map.md",
+                "file": "java/Batismo de java/Estrutura de dados/Map e subvariantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map"
+              "title": "Backlinks for Map e subvariantes"
             }
           },
           {
@@ -233,13 +219,18 @@
   },
   "active": "513bd78bf3846973",
   "lastOpenFiles": [
-    "java/Batismo de java/Estrutura de dados/Set.md",
-    "java/Batismo de java/Estrutura de dados/Map.md",
-    "java/Batismo de java/Estrutura de dados/Stack.md",
-    "java/Batismo de java/Estrutura de dados/Queue.md",
+    "imagens/Pasted image 20251010103541.png",
+    "imagens/Pasted image 20251010103057.png",
     "java/Batismo de java/Estrutura de dados/Linked lists.md",
-    "java/Batismo de java/Estrutura de dados/Collections.md",
+    "java/Batismo de java/Estrutura de dados/Map e subvariantes.md",
     "java/Batismo de java/Estrutura de dados/Array list.md",
+    "imagens/Pasted image 20251010100651.png",
+    "java/Batismo de java/Estrutura de dados/Set e subvariantes.md",
+    "java/Batismo de java/Estrutura de dados/Collections.md",
+    "java/Batismo de java/Estrutura de dados/Stack.md",
+    "java/Inner class.md",
+    "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
+    "java/Batismo de java/Estrutura de dados/Queue.md",
     "java/Batismo de java/Nivel Intermediário/Generics.md",
     "java/Batismo de java/Nivel Intermediário/Método toString.md",
     "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
@@ -249,9 +240,7 @@
     "java/Batismo de java/Nível Avançado/Expressões lambda.md",
     "java/Batismo de java/Nível Avançado/Streams.md",
     "java/Batismo de java/Nível Avançado/Tempo de compilação X Tempo de execução.md",
-    "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
     "Backend/API/O que é uma API.md",
-    "java/Inner class.md",
     "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
     "imagens/Pasted image 20250721103857.png",
     "java/Spring/Dependências.md",
@@ -259,7 +248,6 @@
     "java/Spring/Padrão de projeto.md",
     "java/Spring/Arquivos padrão.md",
     "java/Spring/Banco de dados/Queries do Db.md",
-    "java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
     "imagens/Pasted image 20250720111506.png",
     "aprendizados projeto cadastro restaurante",
     "imagens/Pasted image 20250718122229.png",
@@ -269,8 +257,6 @@
     "imagens/Pasted image 20250714202208.png",
     "imagens/Pasted image 20250714200951.png",
     "imagens/Pasted image 20250714200353.png",
-    "imagens/Pasted image 20250714200341.png",
-    "imagens/Pasted image 20250714133113.png",
     "copilot-custom-prompts",
     "Anotações Programador Pragmático",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos",

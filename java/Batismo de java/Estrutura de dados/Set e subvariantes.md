@@ -1,4 +1,5 @@
 
+## Set
 #### Diferenças dos sets para as listas
 - O set na maioria das vezes apenas vai ser utilizado quando o intuito é ignorar itens duplicados dentro da lista por que ele não permite itens duplicados. 
 - Sets não possuem ordenação, dessa forma, seus elementos aparecem em uma ordem aleatória. Sets também não possuem índices, dessa forma, sets também não possuem nodes, eles são um caso a parte e não se igualam em forma de pesquisa as `linkedLists` ou as `arrayLists`.
