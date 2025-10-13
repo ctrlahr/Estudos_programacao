@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Map e subvariantes.md",
+                "file": "java/Batismo de java/Estrutura de dados/Iterators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map e subvariantes"
+              "title": "Iterators"
             }
           },
           {
-            "id": "7113212b6196a475",
+            "id": "fff963392f6acdb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Set e subvariantes.md",
+                "file": "java/Batismo de java/Estrutura de dados/Array list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set e subvariantes"
+              "title": "Array list"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Map e subvariantes.md",
+                "file": "java/Batismo de java/Estrutura de dados/Iterators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map e subvariantes"
+              "title": "Backlinks for Iterators"
             }
           },
           {
@@ -219,17 +219,24 @@
   },
   "active": "513bd78bf3846973",
   "lastOpenFiles": [
+    "imagens/Pasted image 20251013100143.png",
+    "imagens/Pasted image 20251013095939.png",
+    "imagens/Pasted image 20251013095631.png",
+    "imagens/Pasted image 20251013094920.png",
+    "imagens/Pasted image 20251013094425.png",
+    "Untitled.md",
+    "java/Batismo de java/Estrutura de dados/Iterators.md",
+    "imagens/Pasted image 20251013094147.png",
+    "java/Batismo de java/Estrutura de dados/Array list.md",
+    "java/Batismo de java/Estrutura de dados/Linked lists.md",
+    "java/Batismo de java/Estrutura de dados/Filas dinâmicas.md",
+    "java/Batismo de java/Estrutura de dados/Set e subvariantes.md",
+    "java/Batismo de java/Estrutura de dados/Map e subvariantes.md",
     "imagens/Pasted image 20251010110127.png",
     "imagens/Pasted image 20251010105558.png",
     "imagens/Pasted image 20251010105548.png",
-    "java/Batismo de java/Estrutura de dados/Filas dinâmicas.md",
-    "java/Batismo de java/Estrutura de dados/Map e subvariantes.md",
     "imagens/Pasted image 20251010103541.png",
     "imagens/Pasted image 20251010103057.png",
-    "java/Batismo de java/Estrutura de dados/Linked lists.md",
-    "java/Batismo de java/Estrutura de dados/Array list.md",
-    "imagens/Pasted image 20251010100651.png",
-    "java/Batismo de java/Estrutura de dados/Set e subvariantes.md",
     "java/Batismo de java/Estrutura de dados/Collections.md",
     "java/Batismo de java/Estrutura de dados/Stack.md",
     "java/Inner class.md",
@@ -246,17 +253,10 @@
     "java/Batismo de java/Nível Avançado/Tempo de compilação X Tempo de execução.md",
     "Backend/API/O que é uma API.md",
     "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
-    "imagens/Pasted image 20250721103857.png",
     "java/Spring/Dependências.md",
     "java/Spring/Criação de um projeto.md",
-    "java/Spring/Padrão de projeto.md",
-    "java/Spring/Arquivos padrão.md",
-    "imagens/Pasted image 20250720111506.png",
     "aprendizados projeto cadastro restaurante",
-    "imagens/Pasted image 20250718122229.png",
     "Backend/API",
-    "imagens/Pasted image 20250717095245.png",
-    "imagens/Pasted image 20250717095213.png",
     "copilot-custom-prompts",
     "Anotações Programador Pragmático",
     "java/Batismo de java/Nivel Intermediário/orientação a objetos",
