@@ -70,3 +70,8 @@ O método collect é utilizado dentro das streams para poder coletar o que foi f
 ![[Pasted image 20250726121710.png]]
 - Nesse exemplo está sendo utilizado uma stream para transformar a lista de Model para DTO então está com o `map()` usando o método map do mapper para justamente fazer essa conversão 
 - Com o collect é transformado toda a stream em uma lista para ser retornada.
+
+
+
+
+## Uma outra explicação

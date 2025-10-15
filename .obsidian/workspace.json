@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Iterators.md",
+                "file": "java/Batismo de java/Nível iniciante/Input Output Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterators"
+              "title": "Input Output Operations"
             }
           },
           {
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Iterators.md",
+                "file": "java/Batismo de java/Nível iniciante/Input Output Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Iterators"
+              "title": "Backlinks for Input Output Operations"
             }
           },
           {
@@ -217,15 +217,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "513bd78bf3846973",
+  "active": "a2d08b2a1b3f4931",
   "lastOpenFiles": [
+    "java/Batismo de java/Nível Avançado/Streams.md",
+    "java/Batismo de java/Nível iniciante/Input Output Operations.md",
+    "java/Batismo de java/Estrutura de dados/Iterators.md",
     "imagens/Pasted image 20251013100143.png",
     "imagens/Pasted image 20251013095939.png",
     "imagens/Pasted image 20251013095631.png",
     "imagens/Pasted image 20251013094920.png",
     "imagens/Pasted image 20251013094425.png",
     "Untitled.md",
-    "java/Batismo de java/Estrutura de dados/Iterators.md",
     "imagens/Pasted image 20251013094147.png",
     "java/Batismo de java/Estrutura de dados/Array list.md",
     "java/Batismo de java/Estrutura de dados/Linked lists.md",
@@ -236,7 +238,6 @@
     "imagens/Pasted image 20251010105558.png",
     "imagens/Pasted image 20251010105548.png",
     "imagens/Pasted image 20251010103541.png",
-    "imagens/Pasted image 20251010103057.png",
     "java/Batismo de java/Estrutura de dados/Collections.md",
     "java/Batismo de java/Estrutura de dados/Stack.md",
     "java/Inner class.md",
@@ -249,7 +250,6 @@
     "java/Batismo de java/Nivel Intermediário/Optional.md",
     "java/Batismo de java/Nível Avançado/Escopo estático e variáveis globais.md",
     "java/Batismo de java/Nível Avançado/Expressões lambda.md",
-    "java/Batismo de java/Nível Avançado/Streams.md",
     "java/Batismo de java/Nível Avançado/Tempo de compilação X Tempo de execução.md",
     "Backend/API/O que é uma API.md",
     "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
