@@ -1,4 +1,4 @@
-Streams são uma forma de simplificar operações de busca, filtragem, ordenação, etc. 
+ffStreams são uma forma de simplificar operações de busca, filtragem, ordenação, etc. 
 Dentro da stream existem inúmeros métodos que facilitam operações que muitas vezes seriam mais demorados como um método `filter()` para filtrar itens específicos de uma lista ou até mesmo o método `sorted()` para automaticamente fazer uma ordenação da lista.
 
 Para usar as streams é necessário usar o `.stream()` para depois passar a operação desejada.

@@ -1,7 +1,7 @@
-Um optional é quase como uma caixa onde pode ter algo nela ou não.
-Seu intuito é evitar erros `null pointer exeption` já que o valor será opcional.
+Optional é uma classe introduzida na versão 8 do java e o seu principal propósito é evitar o erro 
+[^1]"null pointer exeption"
 
-Dentro do optional existem alguns métodos como o `get`, `orElse`, etc. 
+[^1]: `NullPointerExeption` é o erro de quando a linguagem tenta acessar um método ou atributo de um objeto que tem valor null, ou seja, que não foi inicializado.
 
 
- 
+Com o uso do optional é mais fácil identificar que o retorno de um método é opcional, ou seja, ele pode chegar a não retornar nada justamente por não ter a obrigação disso.

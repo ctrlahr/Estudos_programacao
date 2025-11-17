@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Nível iniciante/Input Output Operations.md",
+                "file": "java/Batismo de java/Nivel Intermediário/Optional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Input Output Operations"
+              "title": "Optional"
             }
           },
           {
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Nível iniciante/Input Output Operations.md",
+                "file": "java/Batismo de java/Nivel Intermediário/Optional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Input Output Operations"
+              "title": "Backlinks for Optional"
             }
           },
           {
@@ -217,9 +217,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2d08b2a1b3f4931",
+  "active": "513bd78bf3846973",
   "lastOpenFiles": [
     "java/Batismo de java/Nível Avançado/Streams.md",
+    "java/Batismo de java/Estrutura de dados/Queue.md",
     "java/Batismo de java/Nível iniciante/Input Output Operations.md",
     "java/Batismo de java/Estrutura de dados/Iterators.md",
     "imagens/Pasted image 20251013100143.png",
@@ -242,7 +243,6 @@
     "java/Batismo de java/Estrutura de dados/Stack.md",
     "java/Inner class.md",
     "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
-    "java/Batismo de java/Estrutura de dados/Queue.md",
     "java/Batismo de java/Nivel Intermediário/Generics.md",
     "java/Batismo de java/Nivel Intermediário/Método toString.md",
     "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
