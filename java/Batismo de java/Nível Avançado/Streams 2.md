@@ -19,3 +19,26 @@ Operações intermediárias são aquelas que modificam algo da stream, elas são
 Já as operações terminais são responsáveis para encerrar uma stream, operações terminais sempre estão no final de uma stream pois são responsáveis por justamente terminar uma stream.
 
 
+## Operações finais 
+
+*Reduce()*
+A operação reduce resumidamente reduz toda uma stream a um único valor. Se for uma stream de int's, esse valor será um int, caso contrário pode ser um optional, por exemplo.
+
+Essa operação tem uma sintaxe um pouco diferente, é necessário informar o valor inicial, o acumulador, o elemento e por fim a operação que deve ser feita.
+
+Esse é um exemplo utilizado para somar todos os elementos de uma lista:
+![[Pasted image 20251119224625.png]]
+- Nesse caso o valor inicial foi de 0
+- O acumulador a
+- O elemento b
+- E a operação, foi uma operação de soma entre a e b
+
+
+*Limit()* 
+A operação `Limit()` é utilizada para limitar o quanto será mostrado ou o quanto será armazenado a uma stream.
+Ela pode ser utilizada, por exemplo, para fazer que de uma lista com 10 números, apenas os três primeiros sejam exibidos:
+![[Pasted image 20251119230228.png]]
+
+
+
+
