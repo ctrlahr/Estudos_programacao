@@ -19,6 +19,17 @@ Operações intermediárias são aquelas que modificam algo da stream, elas são
 Já as operações terminais são responsáveis para encerrar uma stream, operações terminais sempre estão no final de uma stream pois são responsáveis por justamente terminar uma stream.
 
 
+Para selecionar especificamente um atributo de dentro de uma classe é necessário que a classe tenha um getter, assim ele poderá ser utilizado em conjunto com a operação map, dessa forma: 
+![[Pasted image 20251124232051.png]]
+
+
+## Operações intermediárias
+
+*Distinct()*
+A operação distinct é utilizada para realizar uma remoção de itens duplicados dentro de uma stream, garantindo que a stream possui apenas itens únicos.
+
+
+
 ## Operações finais 
 
 *Reduce()*
