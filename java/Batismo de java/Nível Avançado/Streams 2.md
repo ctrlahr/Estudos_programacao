@@ -51,5 +51,10 @@ Ela pode ser utilizada, por exemplo, para fazer que de uma lista com 10 números
 ![[Pasted image 20251119230228.png]]
 
 
+*AnyMatch()*
+AnyMatch() é uma operação final que serve para estar retornando um booleano, a tradução literal seria "Existe algum?" e é a forma de estar sendo feita uma pergunta de se algumas coisa é de tal coisa, por exemplo, em uma stream de números pares perguntar se só tem números pares na stream, isso seria feito por meio do  `AnyMatch()` perguntando se o resto da divisão é 0, dessa forma, seria retornado um valor, ou true, ou false.
+![[Pasted image 20251127221956.png]]
+
+
 
 
