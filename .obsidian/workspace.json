@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Nível Avançado/Streams 2.md",
+                "file": "java/Batismo de java/Estrutura de dados/Deque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streams 2"
+              "title": "Deque"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Nível Avançado/Streams 2.md",
+                "file": "java/Batismo de java/Estrutura de dados/Deque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Streams 2"
+              "title": "Backlinks for Deque"
             }
           },
           {
@@ -205,9 +205,14 @@
   },
   "active": "63dd793d02a76810",
   "lastOpenFiles": [
+    "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
+    "java/Batismo de java/Estrutura de dados/Deque.md",
+    "imagens/Pasted image 20251201222636.png",
+    "imagens/Pasted image 20251201222625.png",
+    "Untitled 3.md",
+    "java/Batismo de java/Nível Avançado/Streams 2.md",
     "imagens/Pasted image 20251127221956.png",
     "Untitled 2.md",
-    "java/Batismo de java/Nível Avançado/Streams 2.md",
     "Untitled 1.md",
     "imagens/Pasted image 20251124232051.png",
     "imagens/Pasted image 20251119230228.png",
@@ -222,10 +227,7 @@
     "imagens/Pasted image 20251013100143.png",
     "imagens/Pasted image 20251013095939.png",
     "imagens/Pasted image 20251013095631.png",
-    "imagens/Pasted image 20251013094920.png",
-    "imagens/Pasted image 20251013094425.png",
     "Untitled.md",
-    "imagens/Pasted image 20251013094147.png",
     "java/Batismo de java/Estrutura de dados/Linked lists.md",
     "java/Batismo de java/Estrutura de dados/Filas dinâmicas.md",
     "java/Batismo de java/Estrutura de dados/Set e subvariantes.md",
@@ -233,14 +235,11 @@
     "java/Batismo de java/Estrutura de dados/Collections.md",
     "java/Batismo de java/Estrutura de dados/Stack.md",
     "java/Inner class.md",
-    "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
     "java/Batismo de java/Nivel Intermediário/Generics.md",
     "java/Batismo de java/Nivel Intermediário/Método toString.md",
     "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
     "java/Batismo de java/Nivel Intermediário/Records.md",
     "java/Batismo de java/Nível Avançado/Escopo estático e variáveis globais.md",
-    "java/Batismo de java/Nível Avançado/Expressões lambda.md",
-    "java/Batismo de java/Nível Avançado/Tempo de compilação X Tempo de execução.md",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",
     "copilot-custom-prompts",
