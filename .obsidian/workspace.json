@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "649f25dc3f122708",
+        "id": "1379055d1247ba08",
         "type": "tabs",
         "children": [
           {
-            "id": "63dd793d02a76810",
+            "id": "78d908b606214a59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Deque.md",
+                "file": "java/Batismo de java/Nível Avançado/Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deque"
+              "title": "Threads"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Estrutura de dados/Deque.md",
+                "file": "java/Batismo de java/Nível Avançado/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deque"
+              "title": "Backlinks for Threads"
             }
           },
           {
@@ -203,10 +203,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "63dd793d02a76810",
+  "active": "78d908b606214a59",
   "lastOpenFiles": [
-    "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
+    "imagens/Pasted image 20251204224807.png",
+    "imagens/Pasted image 20251204224307.png",
+    "imagens/Pasted image 20251204224030.png",
+    "imagens/Pasted image 20251204223854.png",
+    "imagens/Pasted image 20251204223631.png",
+    "imagens/Pasted image 20251204223146.png",
+    "imagens/Pasted image 20251204223132.png",
+    "Untitled 4.md",
+    "java/Batismo de java/Nível Avançado/Threads.md",
+    "Untitled 5.md",
     "java/Batismo de java/Estrutura de dados/Deque.md",
+    "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
     "imagens/Pasted image 20251201222636.png",
     "imagens/Pasted image 20251201222625.png",
     "Untitled 3.md",
@@ -215,18 +225,12 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "imagens/Pasted image 20251124232051.png",
-    "imagens/Pasted image 20251119230228.png",
-    "imagens/Pasted image 20251119224625.png",
-    "imagens/Pasted image 20251117213328.png",
     "java/Batismo de java/Nível Avançado/Streams.md",
     "java/Batismo de java/Estrutura de dados/Array list.md",
     "java/Batismo de java/Nivel Intermediário/Optional.md",
     "java/Batismo de java/Estrutura de dados/Queue.md",
     "java/Batismo de java/Nível iniciante/Input Output Operations.md",
     "java/Batismo de java/Estrutura de dados/Iterators.md",
-    "imagens/Pasted image 20251013100143.png",
-    "imagens/Pasted image 20251013095939.png",
-    "imagens/Pasted image 20251013095631.png",
     "Untitled.md",
     "java/Batismo de java/Estrutura de dados/Linked lists.md",
     "java/Batismo de java/Estrutura de dados/Filas dinâmicas.md",
@@ -237,9 +241,6 @@
     "java/Inner class.md",
     "java/Batismo de java/Nivel Intermediário/Generics.md",
     "java/Batismo de java/Nivel Intermediário/Método toString.md",
-    "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
-    "java/Batismo de java/Nivel Intermediário/Records.md",
-    "java/Batismo de java/Nível Avançado/Escopo estático e variáveis globais.md",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",
     "copilot-custom-prompts",
