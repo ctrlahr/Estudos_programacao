@@ -35,7 +35,8 @@
               "title": "Threads"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
+                "file": "java/Batismo de java/Nível Avançado/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tratamento de erros"
+              "title": "Backlinks for Threads"
             }
           },
           {
@@ -217,13 +218,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "ebe22475c076fbaf",
+  "active": "fb0c14600f9e890f",
   "lastOpenFiles": [
+    "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
     "imagens/Pasted image 20251205230945.png",
     "imagens/Pasted image 20251205230819.png",
     "imagens/Pasted image 20251205230438.png",
     "java/Batismo de java/Nível Avançado/Threads.md",
-    "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
     "imagens/Pasted image 20251205225441.png",
     "imagens/Pasted image 20251205225437.png",
     "imagens/Pasted image 20251205225426.png",
@@ -236,7 +237,6 @@
     "imagens/Pasted image 20251204224807.png",
     "imagens/Pasted image 20251204224307.png",
     "imagens/Pasted image 20251204224030.png",
-    "imagens/Pasted image 20251204223854.png",
     "Untitled 4.md",
     "java/Batismo de java/Estrutura de dados/Deque.md",
     "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",

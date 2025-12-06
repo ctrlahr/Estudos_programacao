@@ -58,12 +58,4 @@ Aqui está sendo  criada a thread virtual e logo depois sendo chamada. É necess
 ![[Pasted image 20251205225426.png]]
 Essa é a segunda forma de tratar o `InterruptedExeption` que é basicamente utilizando um [[Tratamento de erros| throws]] para falar que a JVM vai lidar com qualquer erro que acontecer.
 
-
-
 Essa é a forma ideal de se criar uma virtual thread para algo mais prático, pois é simples e direto.
-
-
-`Thread.ofVirtual()`:
-
-
-`Executors.newVirtualThreadPerTaskExecutor()`:
