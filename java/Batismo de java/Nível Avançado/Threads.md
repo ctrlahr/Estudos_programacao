@@ -40,3 +40,30 @@ Para realmente fazer uma thread implementando a interface runnable é necessári
 
 Essa é a forma mais simples e a mais utilizada atualmente, ela usa uma expressão lambda para estar rodando uma thread. dentro do método é colocado o que deve ser executado simultaneamente.
 É CRUCIAL que ao chamar a função seja utilizado o método `start()` ao invés do `Run()` por que o método `start` cria uma nova thread enquanto o `run` roda na thread que já está, nesse caso, rodando na `main`
+
+
+# Virtual threads
+As  virtual threads são uma revolução de como threads funcionam no java. Elas tornam a forma como o java lida com a concorrência bem mais rápida e acessível.
+
+Basicamente as virtual threads são leves e ao invés de serem gerenciadas e processadas pelo sistema operacional do usuário,  necessitando de uma máquina com boas especificações para se obter melhores resultados, elas são gerenciadas e processadas pela própria JVM, tornando possível a criação de várias threads sem gerar problemas de performance.
+
+Virtual threads tem algumas formas de serem criadas, porém, as principais são:
+
+`Thread.startVirtualThread()`:
+![[Pasted image 20251205225403.png]]
+Aqui está sendo  criada a thread virtual e logo depois sendo chamada. É necessário sempre tratar o erro `InterruptedExeption` e essa é a primeira forma, utilizando do [[Tratamento de erros| Try, Catch]] para pegar o erro e trata-lo
+
+
+![[Pasted image 20251205225441.png]]
+![[Pasted image 20251205225426.png]]
+Essa é a segunda forma de tratar o `InterruptedExeption` que é basicamente utilizando um [[Tratamento de erros| throws]] para falar que a JVM vai lidar com qualquer erro que acontecer.
+
+
+
+Essa é a forma ideal de se criar uma virtual thread para algo mais prático, pois é simples e direto.
+
+
+`Thread.ofVirtual()`:
+
+
+`Executors.newVirtualThreadPerTaskExecutor()`:
