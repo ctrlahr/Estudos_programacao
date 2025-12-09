@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "31a18b9c262f469c",
+        "id": "9131cafbaab94a86",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe22475c076fbaf",
+            "id": "06fa726d843615de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tratamento de erros"
-            }
-          },
-          {
-            "id": "fb0c14600f9e890f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Batismo de java/Nível Avançado/Threads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Threads"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Batismo de java/Nível Avançado/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Threads"
+              "title": "Backlinks"
             }
           },
           {
@@ -218,13 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb0c14600f9e890f",
+  "active": "06fa726d843615de",
   "lastOpenFiles": [
     "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
+    "java/Spring/Maven.md",
+    "java/Spring/Curso Spring DevDojo",
+    "imagens/Pasted image 20251208221135.png",
+    "java/Inner class.md",
+    "java/Batismo de java/Nível Avançado/Threads.md",
     "imagens/Pasted image 20251205230945.png",
     "imagens/Pasted image 20251205230819.png",
     "imagens/Pasted image 20251205230438.png",
-    "java/Batismo de java/Nível Avançado/Threads.md",
     "imagens/Pasted image 20251205225441.png",
     "imagens/Pasted image 20251205225437.png",
     "imagens/Pasted image 20251205225426.png",
@@ -236,7 +220,6 @@
     "Untitled 5.md",
     "imagens/Pasted image 20251204224807.png",
     "imagens/Pasted image 20251204224307.png",
-    "imagens/Pasted image 20251204224030.png",
     "Untitled 4.md",
     "java/Batismo de java/Estrutura de dados/Deque.md",
     "java/Batismo de java/Nível Avançado/Complexidade de algorítimo.md",
@@ -253,8 +236,6 @@
     "java/Batismo de java/Estrutura de dados/Set e subvariantes.md",
     "java/Batismo de java/Estrutura de dados/Map e subvariantes.md",
     "java/Batismo de java/Estrutura de dados/Collections.md",
-    "java/Batismo de java/Estrutura de dados/Stack.md",
-    "java/Inner class.md",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",
     "copilot-custom-prompts",
@@ -263,7 +244,6 @@
     "java/Batismo de java/Nivel Intermediário",
     "java/Batismo de java/Nível iniciante",
     "java/Estudos por fora",
-    "java/Batismo de java",
-    "kotlin/desenvolvimento mobile"
+    "java/Batismo de java"
   ]
 }
