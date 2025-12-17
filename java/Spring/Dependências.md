@@ -69,16 +69,13 @@ Para trabalhar com bancos de dados é necessário baixar a dependência relativa
 
 
 ## Flyway
-Para usar o versionamento de banco de dados com o flyway é necessário criar uma pasta para guardar essas alterações que forem feitas, ela deve ser criada na pasta de `resources` e dentro da pasta resources é legal que exista também uma outra pasta chamada `migrations` e dentro dessa pasta terão as versões do banco de dados.
-Cada arquivo de versão tem uma nomenclatura especifica, eles sempre começam com um "V" e depois o número da versão seguido de dois underlines, o nome da versão e a extensão `.sql`: 
-![[Pasted image 20250705134516.png]]
+O flyway é a maneira do Java e do Spring de utilizar [[Migrations]], essas migrations devem ficar localizadas dentro da pasta migration e cada migration precisa de uma sintaxe específica para o flyway ser capaz de encontra-la.
+Elas necessitam ter na frente um "V" maiúsculo com o número da migration, por exemplo: "V1" seguido de  dois underlines:
+`V1__nome_da_migration.sql`
 
-E posteriormente, deve ser escrito nesse arquivo a alteração que vai acontecer no banco de dados:
-![[Pasted image 20250705134950.png]]
-Dessa forma, toda e qualquer alteração que seria feita feita direto no painel do banco de dados agora pode ser feita na IDE.
-
-Além disso, também é necessário dar a autorização de execução, nesse caso o flyway precisa ser ativado, deve ser passado onde ele vai trabalhar e também é necessário falar para o flyway que se já existir algo no banco de dados a migration deve ser feita para o que já existe, então se algo já existe, a migration deve ser feita para a tabela já existente e isso tudo no `aplications.properties` que cuida das permissões e configurações do projeto:
-
+Mas para que tudo isso funcione é necessário realizar a conexão com o banco de dados, isso é feito no `aplication.properties`, dessa forma:
+![[Pasted image 20251216225854.png]]
+- É necessário colocar a `url` do banco de dados junto como nome de usuário e a senha
 
 ## Spring security
 
