@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Spring/Banco de dados/Queries do Db.md",
+                "file": "java/Spring/Tipos de API's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Queries do Db"
+              "title": "Tipos de API's"
             }
           }
         ],
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Spring/Banco de dados/Queries do Db.md",
+                "file": "java/Spring/Tipos de API's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Queries do Db"
+              "title": "Backlinks for Tipos de API's"
             }
           },
           {
@@ -220,9 +220,11 @@
   },
   "active": "1638763f7286aaca",
   "lastOpenFiles": [
+    "java/Spring/Banco de dados/Queries do Db.md",
+    "java/Spring/Tipos de API's.md",
+    "java/Spring/N+1 problem.md",
     "java/Spring/Dependências.md",
     "imagens/Pasted image 20251216225854.png",
-    "java/Spring/Banco de dados/Queries do Db.md",
     "java/Spring/Banco de dados/Migrations.md",
     "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
     "java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
@@ -254,7 +256,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled.md",
-    "Untitled 5.md",
     "imagens/Pasted image 20251204224807.png",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",
