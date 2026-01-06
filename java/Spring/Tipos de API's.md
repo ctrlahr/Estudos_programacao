@@ -21,3 +21,28 @@ Porém, REST não é bom para transferências bancárias por exemplo, devido a s
 Para operações bancárias é necessário um sistema ou um modelo de API que garanta que a operação acontecerá apenas uma vez, ela deve funcionar completamente ou não funcionar, o dinheiro não pode correr o risco de simplesmente sumir e também é necessário que seja deixado um rastro, um histórico claro do que aconteceu.
 
 
+
+# Soap
+SOAP significa simple object access protocol, ele é um protocolo mais antigo e formal para comunicação entre sistemas, é como enviar uma carta registrada com diversas camadas de envelopes, selos e comprovantes.
+Uma API SOAP utiliza o XML para estruturar as requisições, uma requisição se parece com isso:
+```
+<envelope>
+  <cabeçalho>
+    <!-- Informações de segurança, autenticação -->
+  </cabeçalho>
+  <corpo>
+    <!-- Sua requisição real aqui -->
+    <transferencia>
+      <valor>100</valor>
+      <destino>123456</destino>
+    </transferencia>
+  </corpo>
+</envelope>
+```
+
+API's SOAP são principalmente utilizadas quando se é necessário de bastante segurança devido a seu suporte nativo para criptografia, assinatura digital e autenticação em múltiplas camadas. Além de garantir a entrega da mensagem e ter todo um controle de ordem para garantir que cada mensagem chegará na ordem correta.
+
+API's SOAP são utilizadas em sua grande maioria em transferências bancárias, processamento de pagamentos e em sistemas de compensação entre bancos justamente a suas características que dão segurança de que por exemplo a transferência ou acontecerá ou não, é impossível ela se perder ou algo do tipo.
+
+Apesar de não ser veloz como uma API REST, uma API SOAP tem suas próprias características que a tornam indispensável no mundo tecnológico.
+
