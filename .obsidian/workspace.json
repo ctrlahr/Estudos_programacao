@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06fa726d843615de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Spring/Dependências.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dependências"
-            }
-          },
-          {
-            "id": "1638763f7286aaca",
+            "id": "9b7ba5afaf52db2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Tipos de API's"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +203,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "1638763f7286aaca",
+  "active": "9b7ba5afaf52db2a",
   "lastOpenFiles": [
-    "java/Spring/Banco de dados/Queries do Db.md",
+    "Backend/RPC.md",
     "java/Spring/Tipos de API's.md",
-    "java/Spring/N+1 problem.md",
     "java/Spring/Dependências.md",
+    "java/Spring/Banco de dados/Queries do Db.md",
+    "java/Spring/N+1 problem.md",
     "imagens/Pasted image 20251216225854.png",
     "java/Spring/Banco de dados/Migrations.md",
     "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
@@ -255,7 +241,6 @@
     "README.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Untitled.md",
     "imagens/Pasted image 20251204224807.png",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",

@@ -46,3 +46,8 @@ API's SOAP são utilizadas em sua grande maioria em transferências bancárias, 
 
 Apesar de não ser veloz como uma API REST, uma API SOAP tem suas próprias características que a tornam indispensável no mundo tecnológico.
 
+
+# gRPC
+o gRPC é basicamente a forma moderna e de alto desempenho do google para o [[RPC]]. Muito mais rápida que suas versões anteriores ela pode chegar a ser até 10x mais rápida que uma requisição REST, sendo ideal para comunicações entre microserviços.
+Porém o gRPC não é bom para browsers por exemplo, APIs REST ainda se mantem melhores e mais eficientes quando a questão é requisições online, o gRPC é mais útil para comunicações entre serviços backend como por exemplo a comunicação entre vários microserviços. 
+
