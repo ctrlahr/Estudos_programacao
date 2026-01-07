@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Spring/Tipos de API's.md",
+                "file": "java/Spring/GraphQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de API's"
+              "title": "GraphQL"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Spring/Tipos de API's.md",
+                "file": "java/Spring/GraphQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tipos de API's"
+              "title": "Backlinks for GraphQL"
             }
           },
           {
@@ -205,8 +205,9 @@
   },
   "active": "9b7ba5afaf52db2a",
   "lastOpenFiles": [
-    "Backend/RPC.md",
     "java/Spring/Tipos de API's.md",
+    "java/Spring/GraphQL.md",
+    "Backend/RPC.md",
     "java/Spring/Dependências.md",
     "java/Spring/Banco de dados/Queries do Db.md",
     "java/Spring/N+1 problem.md",
@@ -240,7 +241,6 @@
     "imagens/Pasted image 20251205225403.png",
     "README.md",
     "Untitled 1.md",
-    "Untitled 2.md",
     "imagens/Pasted image 20251204224807.png",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",
