@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "GraphQL"
             }
+          },
+          {
+            "id": "fb61975b2a6a74ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Spring/Padrão de projeto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Padrão de projeto"
+            }
+          },
+          {
+            "id": "3556c92b4f5d8a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Spring/Padrão de projeto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Padrão de projeto"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Spring/GraphQL.md",
+                "file": "java/Spring/Padrão de projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GraphQL"
+              "title": "Backlinks for Padrão de projeto"
             }
           },
           {
@@ -203,20 +232,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b7ba5afaf52db2a",
+  "active": "fb61975b2a6a74ac",
   "lastOpenFiles": [
-    "java/Spring/Tipos de API's.md",
-    "java/Spring/GraphQL.md",
-    "Backend/RPC.md",
-    "java/Spring/Dependências.md",
+    "imagens/Pasted image 20260112233236.png",
+    "imagens/Pasted image 20260112232143.png",
+    "imagens/Pasted image 20260112231615.png",
+    "imagens/Pasted image 20260112231546.png",
+    "imagens/Pasted image 20260112231349.png",
+    "imagens/Pasted image 20260112231007.png",
+    "imagens/Pasted image 20260112230415.png",
+    "imagens/Pasted image 20260112225051.png",
+    "java/Spring/DTO.md",
+    "java/Spring/Padrão de projeto.md",
+    "imagens/Pasted image 20260112223230.png",
+    "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
     "java/Spring/Banco de dados/Queries do Db.md",
+    "java/Spring/Banco de dados/Migrations.md",
+    "java/Spring/Dependências.md",
+    "java/Spring/Maven.md",
+    "java/Spring/Criação de um projeto.md",
+    "java/Spring/serialização de dados.md",
+    "java/Spring/Arquivos padrão.md",
+    "java/Spring/Criação de rotas.md",
+    "java/Spring/Response Entity.md",
+    "java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
+    "Git e Github/comandos.md",
+    "java/Spring/GraphQL.md",
+    "java/Spring/Tipos de API's.md",
+    "Backend/RPC.md",
     "java/Spring/N+1 problem.md",
     "imagens/Pasted image 20251216225854.png",
-    "java/Spring/Banco de dados/Migrations.md",
-    "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
-    "java/Spring/Banco de dados/Conexão e configuração do banco de dados.md",
-    "java/Spring/Padrão de projeto.md",
-    "java/Spring/Response Entity.md",
     "Backend/Banco de dados/postegresql/Comandos básicos.md",
     "Backend/Banco de dados/postegresql/Tipos de dados de atributos.md",
     "Backend/Banco de dados/postegresql/constraints.md",
@@ -224,24 +269,8 @@
     "Backend/Banco de dados/postegresql/Sobre banco de dados.md",
     "Backend/Banco de dados/postegresql/Sobre a linguagem SQL.md",
     "Backend/Banco de dados/postegresql/Schemas.md",
-    "Backend/Banco de dados/postegresql/Comandos do psql.md",
-    "java/Spring/Criação de rotas.md",
-    "java/Batismo de java/Nivel Intermediário/Tratamento de erros.md",
-    "java/Spring/Maven.md",
     "java/Spring/Curso Spring DevDojo",
     "imagens/Pasted image 20251208221135.png",
-    "java/Inner class.md",
-    "java/Batismo de java/Nível Avançado/Threads.md",
-    "imagens/Pasted image 20251205230945.png",
-    "imagens/Pasted image 20251205230819.png",
-    "imagens/Pasted image 20251205230438.png",
-    "imagens/Pasted image 20251205225441.png",
-    "imagens/Pasted image 20251205225437.png",
-    "imagens/Pasted image 20251205225426.png",
-    "imagens/Pasted image 20251205225403.png",
-    "README.md",
-    "Untitled 1.md",
-    "imagens/Pasted image 20251204224807.png",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",
     "copilot-custom-prompts",

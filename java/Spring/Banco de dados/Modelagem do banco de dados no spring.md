@@ -9,7 +9,7 @@ E é o contrário para a outra tabela, nesse caso, a tabela de missões:
 #### @OneToMany
 Pode ser traduzido para um para muitos.
 
-#### ManyToOne
+#### @ManyToOne
 Traduzido para muitos para um.
 
 
