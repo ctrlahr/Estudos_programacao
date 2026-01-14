@@ -77,6 +77,7 @@ Mas para que tudo isso funcione é necessário realizar a conexão com o banco d
 ![[Pasted image 20251216225854.png]]
 - É necessário colocar a `url` do banco de dados junto como nome de usuário e a senha
 
+
 ## Spring security
 
 
