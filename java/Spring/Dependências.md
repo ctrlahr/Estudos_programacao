@@ -79,6 +79,11 @@ Mas para que tudo isso funcione é necessário realizar a conexão com o banco d
 
 
 ## Spring security
+O Spring security é uma dependência que visa adicionar mais proteção as aplicações spring. Utilizando de métodos de autenticação, necessidade por padrão de credenciais para chamados de requisições, etc.
+
+*Token CSRF*
+Token CSRF é algo que vem por padrão em aplicações com spring security, é algo que impossibilita o chamado de métodos DELETE, PUT e POST.
+
 
 
 
