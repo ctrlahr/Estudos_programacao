@@ -60,3 +60,7 @@ E para finalizar é só fazer o processo inverso, agora estar fazendo a parte de
 
 Como um bônus, é possível também utilizar um método para converter uma lista inteira de uma vez, o que pode ser muito útil algumas vezes. Isso é feito por meio de um método `toDTOList`:
 ![[Pasted image 20260112233236.png]]
+
+
+
+
