@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Spring/Padrão de projeto.md",
+                "file": "Segurança da informação/CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Padrão de projeto"
+              "title": "CSRF"
+            }
+          },
+          {
+            "id": "1cc7ad9b8157b249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Spring/Dependências.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dependências"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Spring/Padrão de projeto.md",
+                "file": "java/Spring/Dependências.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Padrão de projeto"
+              "title": "Backlinks for Dependências"
             }
           },
           {
@@ -232,22 +246,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2d08b2a1b3f4931",
+  "active": "1cc7ad9b8157b249",
   "lastOpenFiles": [
-    "Segurança de aplicações",
+    "imagens/Pasted image 20260119230747.png",
+    "imagens/Pasted image 20260119225421.png",
+    "Segurança da informação/CSRF.md",
+    "java/Spring/Dependências.md",
     "java/Spring/Criação de rotas.md",
+    "Segurança da informação/Cookies.md",
+    "java/Spring/Padrão de projeto.md",
+    "Segurança da informação",
     "java/Spring/DTO.md",
     "java/Spring/Response Entity.md",
     "java/Spring/serialização de dados.md",
     "java/Spring/Criação de um projeto.md",
     "java/Spring/Maven.md",
     "java/Spring/Tipos de API's.md",
-    "java/Spring/Dependências.md",
     "java/Spring/Banco de dados/Queries do Db.md",
     "java/Spring/Arquivos padrão.md",
     "java/Batismo de java/Nível Avançado/Streams 2.md",
     "java/Spring/Banco de dados/Migrations.md",
-    "java/Spring/Padrão de projeto.md",
     "imagens/Pasted image 20260112233236.png",
     "imagens/Pasted image 20260112232143.png",
     "imagens/Pasted image 20260112231615.png",
@@ -263,13 +281,10 @@
     "java/Spring/GraphQL.md",
     "Backend/RPC.md",
     "java/Spring/N+1 problem.md",
-    "imagens/Pasted image 20251216225854.png",
     "Backend/Banco de dados/postegresql/Comandos básicos.md",
     "Backend/Banco de dados/postegresql/Tipos de dados de atributos.md",
     "Backend/Banco de dados/postegresql/constraints.md",
     "Backend/Banco de dados/postegresql/Sobre o postegre.md",
-    "Backend/Banco de dados/postegresql/Sobre banco de dados.md",
-    "Backend/Banco de dados/postegresql/Sobre a linguagem SQL.md",
     "java/Spring/Curso Spring DevDojo",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",
@@ -278,7 +293,6 @@
     "java/Batismo de java/Nivel Intermediário/orientação a objetos",
     "java/Batismo de java/Nivel Intermediário",
     "java/Batismo de java/Nível iniciante",
-    "java/Estudos por fora",
-    "java/Batismo de java"
+    "java/Estudos por fora"
   ]
 }

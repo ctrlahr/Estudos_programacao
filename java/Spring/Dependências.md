@@ -82,8 +82,13 @@ Mas para que tudo isso funcione é necessário realizar a conexão com o banco d
 O Spring security é uma dependência que visa adicionar mais proteção as aplicações spring. Utilizando de métodos de autenticação, necessidade por padrão de credenciais para chamados de requisições, etc.
 
 *Token CSRF*
-Token CSRF é algo que vem por padrão em aplicações com spring security, é algo que impossibilita o chamado de métodos DELETE, PUT e POST.
+[[CSRF |Token CSRF]] é algo que vem por padrão em aplicações com spring security, é algo que impossibilita o chamado de métodos DELETE, PUT e POST.
 
+Para fazer o spring gerar um token CSRF é necessário criar um endpoint para pegar o Token da atual da sessão e utilizar nas requisições desejadas, é ideal que esse endpoint seja separado dos outros, então por exemplo em uma aplicação de dois tipos de endpoints como de uma livraria com autores e livros, deve-se criar um terceiro somente para autenticação. Para isso deve-se fazer o seguinte:
+![[Pasted image 20260119230747.png]]
+- Na primeira linha está criando o endpoint para pegar o token
+- Na segunda é criada a função para obter o token, dá a ela o retorno do tipo `CsrfToken` que é um retorno padrão do spring security, depois o nome do método e o parâmetro que é chamado de token e é do tipo `CsrfToken` que também é um tipo adicionado por padrão pelo spring security.
+- Depois, apenas é retornado o parâmetro.
 
 
 
