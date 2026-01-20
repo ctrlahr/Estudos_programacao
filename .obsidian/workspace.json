@@ -232,8 +232,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb61975b2a6a74ac",
+  "active": "a2d08b2a1b3f4931",
   "lastOpenFiles": [
+    "Segurança de aplicações",
     "java/Spring/Criação de rotas.md",
     "java/Spring/DTO.md",
     "java/Spring/Response Entity.md",
@@ -269,7 +270,6 @@
     "Backend/Banco de dados/postegresql/Sobre o postegre.md",
     "Backend/Banco de dados/postegresql/Sobre banco de dados.md",
     "Backend/Banco de dados/postegresql/Sobre a linguagem SQL.md",
-    "Backend/Banco de dados/postegresql/Schemas.md",
     "java/Spring/Curso Spring DevDojo",
     "aprendizados projeto cadastro restaurante",
     "Backend/API",
