@@ -1,0 +1,1 @@
+CORS ou cross-origin resource sharing é um mecanismo que usa cabeçalhos adicionais HTTP para informar a um navegador que permita que um aplicativo WEB acesse um servidor de origem distinta, pode ser uma API que está em um domínio diferente ou até mesmo em localhost. 
