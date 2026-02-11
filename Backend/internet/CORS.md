@@ -1,1 +1,3 @@
 CORS ou cross-origin resource sharing é um mecanismo que usa cabeçalhos adicionais HTTP para informar a um navegador que permita que um aplicativo WEB acesse um servidor de origem distinta, pode ser uma API que está em um domínio diferente ou até mesmo em localhost. 
+
+Numa aplicação backend, é estritamente necessário criar um arquivo de configuração para o CORS, pois, é necessário informar por exemplo que o backend permite o envio de credenciais, quais domínios ele permite enviar requisições e indicar que todos os headers são permitidos, tornando assim o envio de credenciais para requisições possível.
