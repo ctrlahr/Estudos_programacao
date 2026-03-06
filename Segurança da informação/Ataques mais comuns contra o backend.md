@@ -25,4 +25,5 @@ O classic SQL injection tem duas maneiras de ser executado.
 ### Como se proteger
 A primeira parte essencial é NUNCA executar SQL no frontend pois todo o código do frontend fica disponível na ferramenta de desenvolvedor dos navegadores, permitindo até mesmo alterações temporárias, o que pode fazer com que uma querie seja executada afim de conseguir algum dado sensível.
 
- 
+ A segunda parte necessária é utilizar bind variables.
+ Bind variables são utilizadas como parâmetros no momento da consulta SQL, elas são representadas com "?", então é necessário utilizar as bind variables e complementar depois no código, falando o que elas representam.
