@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Spring/Spring Security/Permissões usuários.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Permissões usuários"
+              "title": "Backlinks"
             }
           },
           {
@@ -203,10 +202,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "691b755d72dc4d3d",
+  "active": "a2d08b2a1b3f4931",
   "lastOpenFiles": [
-    "imagens/Pasted image 20260709052121.png",
     "java/Spring/Spring Security/Permissões usuários.md",
+    "Untitled.md",
+    "imagens/Pasted image 20260709052121.png",
     "java/Spring/DTO.md",
     "java/Spring/Banco de dados/Queries do Db.md",
     "java/Spring/Banco de dados/Modelagem do banco de dados no spring.md",
@@ -241,7 +241,6 @@
     "imagens/Pasted image 20260414223846.png",
     "imagens/Pasted image 20260414222956.png",
     "imagens/Pasted image 20260414222937.png",
-    "imagens/Pasted image 20260408224536.png",
     "Backend/Segurança",
     "Segurança da informação",
     "java/Spring/Curso Spring DevDojo",
